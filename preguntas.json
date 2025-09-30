@@ -1,0 +1,3617 @@
+{
+  "tema1": [
+    {
+    "texto": "CLAVE PRIMARIA:",
+    "opciones": [
+      "Es un campo o un grupo de campos que fuerzan la integridad de los datos en la tabla, asegurándose que cada registro en la tabla es único.",
+      "Solo puede haber una sola clave primaria por tabla.",
+      "Una columna (o un conjunto de columnas) con una restricción de clave primaria no puede tener valores duplicados ni nulos. ",
+      "Se crea un índice al definir una clave primaria. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 1
+  },
+  {
+    "texto": "CLAVE PRIMARIA:",
+    "opciones": [
+      "Es un campo o un grupo de campos que fuerzan la integridad de los datos en la tabla, asegurándose que cada registro en la tabla es consecutivo y se pueden agrupar por ser iguales.",
+      "Puede haber una o dos claves primarias por tabla. ",
+      "Una columna (o un conjunto de columnas) con una restricción de clave primaria no puede tener valores duplicados ni nulos.",
+      "Se crea un índice al definir una clave primaria. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 2
+  },
+  {
+    "texto": "CLAVE PRIMARIA:",
+    "opciones": [
+      "Es un campo o un grupo de campos que fuerzan la integridad de los datos en la tabla, asegurándose que cada registro en la tabla es único. ",
+      "Solo puede haber una sola clave primaria por tabla. ",
+      "Una columna (o un conjunto de columnas) con una restricción de clave primaria puede tener un unico valor nulo. ",
+      "Se crea un atributo para definir una clave primaria.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 3
+  },
+  {
+    "texto": "CLAVE PRIMARIA:",
+    "opciones": [
+      "Es un campo o un grupo de campos que fuerzan la integridad de los datos en la tabla, asegurándose que cada registro en la tabla es consecutivo y se pueden agrupar por ser iguales. ",
+      "Puede haber una o dos claves primarias por tabla. ",
+      "Una columna (o un conjunto de columnas) con una restricción de clave primaria puede tener un unico valor nulo. ",
+      "Se crea un atributo para definir una clave primaria. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 4
+  },
+  {
+    "texto": "CLAVE PRIMARIA:",
+    "opciones": [
+      "Es un campo o un grupo de campos que fuerzan la integridad de los datos en la tabla, asegurándose que cada registro en la tabla es único.",
+      "Puede haber una o dos claves primarias por tabla.",
+      "Una columna (o un conjunto de columnas) con una restricción de clave primaria puede tener un unico valor nulo. ",
+      "Se crea un atributo para definir una clave primaria. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 5
+  },
+  {
+    "texto": "CLAVE PRIMARIA:",
+    "opciones": [
+      "Es un campo o un grupo de campos que fuerzan la integridad de los datos en la tabla, asegurándose que cada registro en la tabla es consecutivo y se pueden agrupar por ser iguales. ",
+      "Solo puede haber una sola clave primaria por tabla. ",
+      "Una columna (o un conjunto de columnas) con una restricción de clave primaria puede tener un unico valor nulo. ",
+      "Se crea un atributo para definir una clave primaria. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 6
+  },
+  {
+    "texto": "CLAVE PRIMARIA:",
+    "opciones": [
+      "Es un campo o un grupo de campos que fuerzan la integridad de los datos en la tabla, asegurándose que cada registro en la tabla es consecutivo y se pueden agrupar por ser iguales. ",
+      "Puede haber una o dos claves primarias por tabla. ",
+      "Una columna (o un conjunto de columnas) con una restricción de clave primaria no puede tener valores duplicados ni nulos. ",
+      "Se crea un atributo para definir una clave primaria. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 7
+  },
+  {
+    "texto": "CLAVE PRIMARIA:",
+    "opciones": [
+      "Es un campo o un grupo de campos que fuerzan la integridad de los datos en la tabla, asegurándose que cada registro en la tabla es consecutivo y se pueden agrupar por ser iguales.",
+      "Puede haber una o dos claves primarias por tabla. ",
+      "Una columna (o un conjunto de columnas) con una restricción de clave primaria puede tener un unico valor nulo. ",
+      "Se crea un índice al definir una clave primaria.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 8
+  }
+  ],
+  "tema2": [
+      {
+    "texto": "CLAVE FORANEA: ",
+    "opciones": [
+      "Se utiliza para establecer y mantener la integridad referencial entre dos tablas, asegurando que las relaciones entre los datos sean consistentes y válidas. ",
+      "Es un campo (o un conjunto de campos) en una tabla que se utiliza para hacer referencia a la clave primaria en otra tabla. ",
+      "Su principal propósito es garantizar que los valores en la columna de clave foránea correspondan a los valores existentes en la columna de clave primaria de la tabla referenciada. ",
+      "Mantiene la integridad referencial entre las tablas, evitando la inserción de valores en la tabla hija que no existan en la tabla padre. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 1
+  },
+  {
+    "texto": "CLAVE FORANEA:\r\n",
+    "opciones": [
+      "Se utiliza para establecer y mantener la integridad referencial entre dos relaciones, asegurando que las relaciones entre los datos sean consistentes y válidas. ",
+      "Es un campo (o un conjunto de campos) en un atributo que se utiliza para hacer referencia a la clave primaria en otra tabla. ",
+      "Su principal propósito es garantizar que los valores en la columna de clave foránea correspondan a los valores existentes en la columna de clave primaria de la tabla referenciada. ",
+      "Mantiene la integridad referencial entre las tablas, evitando la inserción de valores en la tabla hija que no existan en la tabla padre. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 2
+  },
+  {
+    "texto": "CLAVE FORANEA:\r\n",
+    "opciones": [
+      "Se utiliza para establecer y mantener la integridad referencial entre dos tablas, asegurando que las relaciones entre los datos sean consistentes y válidas. ",
+      "Es un campo (o un conjunto de campos) en una tabla que se utiliza para hacer referencia a la clave primaria en otra tabla. ",
+      "Su principal propósito es garantizar que los valores en la columna del atributo de la relacion correspondan a los valores existentes en la columna de relacion de la tabla referenciada. ",
+      "Mantiene la integridad referencial entre los atributos, evitando la inserción de valores en la tabla hija que no existan en la tabla padre. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 3
+  },
+  {
+    "texto": "CLAVE FORANEA:\r\n",
+    "opciones": [
+      "Se utiliza para establecer y mantener la integridad referencial entre dos relaciones, asegurando que las relaciones entre los datos sean consistentes y válidas. ",
+      "Es un campo (o un conjunto de campos) en un atributo que se utiliza para hacer referencia a la clave primaria en otra tabla. ",
+      "Su principal propósito es garantizar que los valores en la columna del atributo de la relacion correspondan a los valores existentes en la columna de relacion de la tabla referenciada. ",
+      "Mantiene la integridad referencial entre los atributos, evitando la inserción de valores en la tabla hija que no existan en la tabla padre. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 4
+  },
+  {
+    "texto": "CLAVE FORANEA:\r\n",
+    "opciones": [
+      "Se utiliza para establecer y mantener la integridad referencial entre dos tablas, asegurando que las relaciones entre los datos sean consistentes y válidas. ",
+      "Es un campo (o un conjunto de campos) en un atributo que se utiliza para hacer referencia a la clave primaria en otra tabla. ",
+      "Su principal propósito es garantizar que los valores en la columna del atributo de la relacion correspondan a los valores existentes en la columna de relacion de la tabla referenciada.",
+      "Mantiene la integridad referencial entre los atributos, evitando la inserción de valores en la tabla hija que no existan en la tabla padre. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 5
+  },
+  {
+    "texto": "CLAVE FORANEA:\r\n",
+    "opciones": [
+      "Se utiliza para establecer y mantener la integridad referencial entre dos relaciones, asegurando que las relaciones entre los datos sean consistentes y válidas. ",
+      "Es un campo (o un conjunto de campos) en una tabla que se utiliza para hacer referencia a la clave primaria en otra tabla. ",
+      "Su principal propósito es garantizar que los valores en la columna del atributo de la relacion correspondan a los valores existentes en la columna de relacion de la tabla referenciada. ",
+      "Mantiene la integridad referencial entre los atributos, evitando la inserción de valores en la tabla hija que no existan en la tabla padre. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 6
+  },
+  {
+    "texto": "CLAVE FORANEA:\r\n",
+    "opciones": [
+      "Se utiliza para establecer y mantener la integridad referencial entre dos relaciones, asegurando que las relaciones entre los datos sean consistentes y válidas.",
+      "Es un campo (o un conjunto de campos) en un atributo que se utiliza para hacer referencia a la clave primaria en otra tabla. ",
+      "Su principal propósito es garantizar que los valores en la columna de clave foránea correspondan a los valores existentes en la columna de clave primaria de la tabla referenciada.",
+      "Mantiene la integridad referencial entre los atributos, evitando la inserción de valores en la tabla hija que no existan en la tabla padre. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 7
+  },
+  {
+    "texto": "CLAVE FORANEA:",
+    "opciones": [
+      "Se utiliza para establecer y mantener la integridad referencial entre dos relaciones, asegurando que las relaciones entre los datos sean consistentes y válidas. ",
+      "Es un campo (o un conjunto de campos) en un atributo que se utiliza para hacer referencia a la clave primaria en otra tabla. ",
+      "Su principal propósito es garantizar que los valores en la columna del atributo de la relacion correspondan a los valores existentes en la columna de relacion de la tabla referenciada. ",
+      "Mantiene la integridad referencial entre las tablas, evitando la inserción de valores en la tabla hija que no existan en la tabla padre. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 8
+  }
+  ],
+  "tema3": [
+      {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Facilitan la obtención de información de una tabla.",
+      "Posibilita el acceso directo y rápido haciendo más eficiente las búsquedas.",
+      "Sin índice, SQL Server debe recorrer secuencialmente toda la tabla para encontrar un registro.",
+      "Acelera la recuperación de información.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 1
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Sin índice, SQL Server debe recorrer secuencialmente toda la tabla para encontrar un registro.",
+      "Acelera la recuperación de información.",
+      "Optimiza el acceso a los datos.",
+      "Mejora el rendimiento acelerando las consultas y otras operaciones.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 2
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Una tabla se indexa por una relacion o varias.",
+      "Posibilita el acceso directo y rápido haciendo vistas para las búsquedas. ",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro. ",
+      "Mejora el rendimiento acelerando las consultas y otras operaciones. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 3
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Una tabla se indexa por una relacion o varias.",
+      "Posibilita el acceso directo y rápido haciendo vistas para las búsquedas. ",
+      "Mejora el rendimiento acelerando las consultas y otras operaciones.",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 4
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Posibilita el acceso directo y rápido haciendo más eficiente las búsquedas.",
+      "Una tabla se indexa por una relacion o varias.",
+      "Posibilita el acceso directo y rápido haciendo vistas para las búsquedas.",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 5
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Facilitan la obtención de información de un atributo.",
+      "Una tabla se indexa por una relacion o varias. ",
+      "Posibilita el acceso directo y rápido haciendo vistas para las búsquedas. ",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 6
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Facilitan la obtención de información de un atributo.",
+      "Una tabla se indexa por una relacion o varias. ",
+      "Sin índice, SQL Server debe recorrer secuencialmente toda la tabla para encontrar un registro.",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 7
+  },
+  {
+    "texto": "Los Indices: ",
+    "opciones": [
+      "La desventaja es que consume espacio en disco y genera costo de mantenimiento (tiempo y recursos).",
+      "Los índices más adecuados son aquellos creados con campos que contienen valores únicos.",
+      "Es importante crear un índice, con campos por los cuales se realizan búsqueda con frecuencia: claves primarias, claves externas o campos que combinan tablas.",
+      "No se recomienda crear índices por campos que no se usan con frecuencia en consultas o no contienen valores únicos. ",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 8
+  },
+  {
+    "texto": "Los Indices: ",
+    "opciones": [
+      "La Ventaja es que consume espacio en disco y pero no genera costo de mantenimiento (tiempo y recursos).",
+      "Los índices más adecuados son aquellos creados con campos que contienen valores duplicados. ",
+      "Es importante crear un índice, con campos por los cuales se realizan búsqueda con poca frecuencia.",
+      "Recorriendo las tablas; comenzando por el valor del indice mas grande y extrayendo los registros que cumplen las condiciones de la consulta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 9
+  }
+  ],
+  "tema4": [
+      {
+    "texto": "La clausula LIKE:",
+    "opciones": [
+      "Determina el intervalo de valores para una consulta.",
+      "Agrupa Valores del mismo tipo.",
+      "Realiza alguna operacion Matematica sobre los valores obtenidos de la consulta.",
+      "Determina si una cadena de caracteres específica coincide con un patrón especificado. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 1
+  },
+  {
+    "texto": "La clausula LIKE:",
+    "opciones": [
+      "Determina el intervalo de valores para una consulta.",
+      "Determina si una cadena de caracteres específica coincide con un patrón especificado, y el patrón puede contener caracteres normales y/o comodínes.",
+      "Agrupa Valores del mismo tipo.",
+      "Determina si una cadena de caracteres específica coincide con un patrón especificado.",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 2
+  },
+  {
+    "texto": "La clausula LIKE:",
+    "opciones": [
+      "Durante la operación de búsqueda de coincidencias de patrón, los caracteres normales pueden no coincidir exactamente con los caracteres especificados en la cadena de caracteres. ",
+      "Durante la operación de búsqueda de coincidencias de patrón, los caracteres comodines pueden no coincidir con fragmentos arbitrarios de la cadena. ",
+      "Realiza alguna operacion Matematica sobre los valores obtenidos de la consulta.",
+      "Determina si una cadena de caracteres específica coincide con un patrón especificado, y el patrón puede contener caracteres normales y/o comodínes.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 3
+  }
+  ]
+  ,
+  "tema5": [
+      {
+    "texto": "ATRIBUTOS:",
+    "opciones": [
+      "Un atributo de una entidad representa alguna propiedad que nos interesa almacenar.",
+      "Es una característica o propiedad que describe una entidad. ",
+      "En el modelo de bases de datos, los atributos son almacenados como columnas o campos de una tabla.",
+      "Cada atributo almacena un tipo específico de información sobre la entidad.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 1
+  },
+  {
+    "texto": "ATRIBUTOS:",
+    "opciones": [
+      "Un atributo de una Relacion representa alguna propiedad que nos interesa almacenar.",
+      "Es una característica o propiedad que describe una entidad.",
+      "En el modelo de bases de datos, los atributos son almacenados como columnas o campos de una tabla.",
+      "Cada atributo almacena un tipo específico de información sobre la entidad. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 2
+  },
+  {
+    "texto": "ATRIBUTOS:",
+    "opciones": [
+      "Un atributo de una Relacion representa alguna propiedad que nos interesa almacenar.",
+      "Es una característica o propiedad que describe una relacion.",
+      "En el modelo de bases de datos, los atributos son almacenados como columnas o campos de una tabla.",
+      "Cada atributo almacena un tipo específico de información sobre la entidad.",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 3
+  },
+  {
+    "texto": "ATRIBUTOS:",
+    "opciones": [
+      "Un atributo de una Relacion representa alguna propiedad que nos interesa almacenar. ",
+      "Es una característica o propiedad que describe una relacion. ",
+      "En el modelo de bases de datos, los atributos son almacenados como relaciones entre una o mas entidades.",
+      "Cada atributo almacena un tipo específico de información sobre la relacion. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 4
+  },
+  {
+    "texto": "ATRIBUTOS:",
+    "opciones": [
+      "Un atributo de una entidad representa alguna propiedad que nos interesa almacenar.",
+      "Es una característica o propiedad que describe una relacion.",
+      "En el modelo de bases de datos, los atributos son almacenados como relaciones entre una o mas entidades. ",
+      "Cada atributo almacena un tipo específico de información sobre la relacion.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 5
+  },
+  {
+    "texto": "ATRIBUTOS:",
+    "opciones": [
+      "Un atributo de una Relacion representa alguna propiedad que nos interesa almacenar.",
+      "Es una característica o propiedad que describe una entidad. ",
+      "En el modelo de bases de datos, los atributos son almacenados como relaciones entre una o mas entidades. ",
+      "Cada atributo almacena un tipo específico de información sobre la relacion. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 6
+  },
+  {
+    "texto": "ATRIBUTOS:",
+    "opciones": [
+      "Un atributo de una Relacion representa alguna propiedad que nos interesa almacenar.",
+      "Es una característica o propiedad que describe una relacion. ",
+      "En el modelo de bases de datos, los atributos son almacenados como columnas o campos de una tabla. ",
+      "Cada atributo almacena un tipo específico de información sobre la relacion. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 7
+  },
+  {
+    "texto": "ATRIBUTOS:",
+    "opciones": [
+      "Un atributo de una Relacion representa alguna propiedad que nos interesa almacenar.",
+      "Es una característica o propiedad que describe una relacion. ",
+      "En el modelo de bases de datos, los atributos son almacenados como relaciones entre una o mas entidades. ",
+      "Cada atributo almacena un tipo específico de información sobre la entidad.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 8
+  }
+  ]
+  ,
+  "tema6": [
+       {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n\r\n",
+    "opciones": [
+      "hello, world!",
+      "Hello, World!",
+      "HELLO, WORLD! ",
+      "hELLO, wORLD!"
+    ],
+    "correcta": 0,
+    "multiple": "lower",
+    "id": 48
+  },
+  {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n\r\n",
+    "opciones": [
+      "hello sql",
+      "HELLO sql",
+      "HELLO SQL",
+      "hello SQL"
+    ],
+    "correcta": 0,
+    "multiple": "lower",
+    "id": 49
+  }
+  ]
+  ,
+  "tema7": [
+        {
+    "texto": " ¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n \r\n",
+    "opciones": [
+      "resultado = Bienvenidos,",
+      "resultado = Bienveni ",
+      "esultado = diantes! ",
+      "resultado = Bienvenidos"
+    ],
+    "correcta": 1,
+    "multiple": "left",
+    "id": 46
+  },
+  {
+    "texto": " ¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n \r\n",
+    "opciones": [
+      "resultado = Bienvenidos a",
+      "resultado = Bienveni ",
+      "resultado = L Server",
+      "resultado = Bienvenidos"
+    ],
+    "correcta": 1,
+    "multiple": "left",
+    "id": 47
+  }
+  ]
+  ,
+  "tema8": [
+      {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n\r\n",
+    "opciones": [
+      "resultado = www.unlam",
+      ".resultado = edu.ar ",
+      "resultado = www.unsam.edu.ar",
+      "resultado = www.unlam.edu.ar"
+    ],
+    "correcta": 2,
+    "multiple": "replace",
+    "id": 52
+  },
+  {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n",
+    "opciones": [
+      "resultado = www.unsam",
+      "resultado = .edu.ar ",
+      "resultado = www.unlam.edu.ar",
+      "resultado = www.unsam.edu.ar"
+    ],
+    "correcta": 2,
+    "multiple": "replace",
+    "id": 53
+  },
+  {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n\r\n",
+    "opciones": [
+      "Hello,!",
+      "Hello, world!",
+      "SQL, world! ",
+      "Hello, SQLd! "
+    ],
+    "correcta": 0,
+    "multiple": "replace",
+    "id": 54
+  }
+  ]
+  ,
+  "tema9": [
+      {
+    "texto": "right:\r\n¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n\r\n\r\n",
+    "opciones": [
+      "resultado = dos, estudiantes!",
+      "resultado = diantes!",
+      "resultado = Bienveni ",
+      "resultado = Bienvenidos"
+    ],
+    "correcta": 1,
+    "multiple": "right",
+    "id": 55
+  },
+  {
+    "texto": " ¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n \r\n",
+    "opciones": [
+      "resultado = Bienvenidos a SQ",
+      "resultado = L Server",
+      "resultado = Bienveni",
+      "resultado = Bienvenidos"
+    ],
+    "correcta": 1,
+    "multiple": "right",
+    "id": 56
+  }
+  ]
+  ,
+  "tema10": [
+        {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n",
+    "opciones": [
+      "worl",
+      "Hello ",
+      "world",
+      ", wor"
+    ],
+    "correcta": 0,
+    "multiple": "substring",
+    "id": 63
+  },
+  {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n\r\n",
+    "opciones": [
+      "resultado = Bienven ",
+      "resultado = iantes!",
+      "resultado = Bienv",
+      "resultado = nidos"
+    ],
+    "correcta": 3,
+    "multiple": "substring",
+    "id": 64
+  }
+  ]
+  ,
+  "tema11": [
+        {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n\r\n",
+    "opciones": [
+      "resultado = hola estudiante",
+      "resultado = hola estudiaNTE",
+      "resultado = HOLA ESTUDIAnte",
+      "resultado = HOLA ESTUDIANTE"
+    ],
+    "correcta": 3,
+    "multiple": "upper",
+    "id": 65
+  },
+  {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta? \r\n",
+    "opciones": [
+      "resultado = resultado ventas anual",
+      "resultado = rESULTADO vENTAS aNUAL",
+      "resultado = Resultado Ventas Anual",
+      "resultado = RESULTADO VENTAS ANUAL"
+    ],
+    "correcta": 3,
+    "multiple": "upper",
+    "id": 66
+  }
+  ]
+  ,
+  "tema12": [
+       {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta en SQL?\r\n\r\n\r\n",
+    "opciones": [
+      "posicion = 0",
+      "no devuelve valor CHARINDEX es sensible a mayúsculas y minúsculas.",
+      "posicion = 1",
+      "posicion = 3"
+    ],
+    "correcta": 2,
+    "multiple": "charindex",
+    "id": 1
+  },
+  {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta en SQL?\r\n\r\n",
+    "opciones": [
+      "posicion = 0",
+      "no devuelve valor CHARINDEX es sensible a mayúsculas y minúsculas.",
+      "posicion = 1",
+      "posicion = 15"
+    ],
+    "correcta": 3,
+    "multiple": "charindex",
+    "id": 2
+  },
+  {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta en SQL?\r\n\r\n",
+    "opciones": [
+      "posicion = 0",
+      "no devuelve valor CHARINDEX es sensible a mayúsculas y minúsculas.",
+      "posicion = 21",
+      "posicion = 15 "
+    ],
+    "correcta": 2,
+    "multiple": "charindex",
+    "id": 3
+  }
+  ]
+  ,
+  "tema13": [
+      {
+    "texto": "Dado el siguiente requerimiento, crear la base de datos y su esquema: \r\nLa base de datos debe llamarse Facturación. El esquema dentro de la base de datos debe llamarse Compras. \r\n",
+    "opciones": [
+      "CREATE SCHEMA Compras;  CREATE DATABASE Facturación; ",
+      "CREATE DATABASE Facturación;   CREATE SCHEMA Compras; ",
+      "CREATE DATABASE Facturación;   USE Facturación;   CREATE SCHEMA Compras; ",
+      "USE Facturación;  CREATE SCHEMA Compras;  CREATE DATABASE Facturación; "
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 4
+  },
+  {
+    "texto": "Dentro de la base de datos llamada Facturación y el esquema Compras, genera las sentencias correctas para crear una tabla llamada Producto con las siguientes columnas: \r\n",
+    "opciones": [
+      "CREATE TABLE Facturación.Compras.Producto (   producto_id INT PRIMARY KEY,   nombre VARCHAR(100) NOT NULL,   precio DECIMAL(10,2) NOT NULL); ",
+      "USE Compras;  CREATE TABLE Producto (   producto_id INT PRIMARY KEY,   nombre VARCHAR(100) NOT NULL,   precio DECIMAL(10,2) NOT NULL); ",
+      "CREATE TABLE Compras.Producto (   producto_id INT PRIMARY KEY,   nombre VARCHAR(100) NOT NULL,   precio DECIMAL(10,2) NOT NULL); ",
+      "USE Facturación;  CREATE TABLE Compras.Producto (   producto_id INT PRIMARY KEY,   nombre VARCHAR(100) NOT NULL,   precio DECIMAL(10,2) NOT NULL); "
+    ],
+    "correcta": 3,
+    "multiple": "creaciondb",
+    "id": 5
+  },
+  {
+    "texto": "Dentro de la base de datos Facturación, el esquema Compras y la tabla Producto.\r\n\r\nAltera la tabla Producto para agregar una restricción que asegure que el precio sea mayor a 50. ",
+    "opciones": [
+      "ALTER TABLE Compras.Producto  ADD CONSTRAINT CHK_Precio CHECK (precio > 50); ",
+      "ALTER TABLE Producto  ADD CONSTRAINT CHK_Precio CHECK (precio >= 50); ",
+      "ALTER TABLE Facturación.Compras.Producto  ADD CHECK (precio > 50);",
+      "USE Facturación;  ALTER TABLE Compras.Producto  ADD CONSTRAINT CHK_Precio CHECK (precio >= 50);"
+    ],
+    "correcta": 0,
+    "multiple": "creaciondb",
+    "id": 6
+  }
+  ]
+  ,
+  "tema14": [
+      {
+    "texto": "Sentencia DELETE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Foráneas: Si una fila que deseas eliminar está referenciada por una clave foránea en otra tabla, SQL Server puede impedir la eliminación para evitar la violación de la integridad referencial.",
+      "Claves Foráneas: Si una fila que deseas eliminar está referenciada por una clave foránea en otra tabla,si se han definido acciones ON DELETE CASCADE, la eliminación se propagará automáticamente a las filas dependientes. ",
+      "Restricciones de Integridad Referencial: Las restricciones de clave foránea pueden requerir que manejes cuidadosamente la eliminación de filas para mantener la integridad de los datos. ",
+      "Mas de una respuesta es Correcta. ",
+      "Todas las respuestas anteriores son correcta. ",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 1
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Foráneas: Si una fila que deseas eliminar no está referenciada por una clave foránea en otra tabla, SQL Server puede impedir la eliminación para evitar la violación de la integridad referencial. ",
+      "Claves Foráneas: Si una fila que deseas eliminar está referenciada por una clave foránea en otra tabla,si se han definido acciones ON DELETE CASCADE, la eliminación se propagará automáticamente a las filas dependientes. ",
+      "Restricciones de Integridad Referencial: Las restricciones de clave foránea pueden requerir que manejes cuidadosamente la eliminación de filas para mantener la integridad de los datos. ",
+      "Mas de una respuesta es Correcta. ",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 2
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Foráneas: Si una fila que deseas eliminar está referenciada por una clave foránea en otra tabla, SQL Server puede impedir la eliminación para evitar la violación de la integridad referencial.",
+      "Claves Foráneas: Si una fila que deseas eliminar no está referenciada por una clave foránea en otra tabla,si se han definido acciones ON DELETE CASCADE, la eliminación se propagará automáticamente a las filas dependientes. ",
+      "Restricciones de Integridad Referencial: Las restricciones de clave foránea pueden requerir que manejes cuidadosamente la eliminación de filas para mantener la integridad de los datos. ",
+      "Mas de una respuesta es Correcta. ",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 3
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Foráneas: Si una fila que deseas eliminar está referenciada por una clave foránea en otra tabla, SQL Server puede impedir la eliminación para evitar la violación de la integridad referencial.",
+      "Claves Foráneas: Si una fila que deseas eliminar está referenciada por una clave foránea en otra tabla,si se han definido acciones ON DELETE CASCADE, la eliminación se propagará automáticamente a las filas dependientes.",
+      "Restricciones de Integridad Referencial: Las restricciones de clave foránea no requiere que manejes cuidadosamente la eliminación de filas para mantener la integridad de los datos, ya que eso se hace por defecto.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta. ",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 4
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Foráneas: Si una fila que deseas eliminar no está referenciada por una clave foránea en otra tabla, SQL Server puede impedir la eliminación para evitar la violación de la integridad referencial. ",
+      "Claves Foráneas: Si una fila que deseas eliminar no está referenciada por una clave foránea en otra tabla,si se han definido acciones ON DELETE CASCADE, la eliminación se propagará automáticamente a las filas dependientes. ",
+      "Restricciones de Integridad Referencial: Las restricciones de clave foránea no requiere que manejes cuidadosamente la eliminación de filas para mantener la integridad de los datos, ya que eso se hace por defecto. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 5
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Transacciones: Las operaciones de DELETE se pueden agrupar en transacciones. Si una transacción falla, SQL Server puede revertir todas las eliminaciones realizadas durante esa transacción, manteniendo la integridad de la base de datos. ",
+      "Restricciones de Vista: Si intentas eliminar filas a través de una vista, la vista debe ser actualizable. Algunas vistas, especialmente aquellas que involucran uniones complejas, agregaciones o agregaciones de datos, pueden no ser actualizables directamente. ",
+      "Restricciones de Concurrencia: SQL Server utiliza bloqueos para manejar la concurrencia durante la operación de DELETE. Estos bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la eliminación. ",
+      "Restricciones de Filtros: Asegúrate de usar la cláusula WHERE correctamente. Si omites la cláusula WHERE, se eliminarán todas las filas de la tabla, lo que podría resultar en la pérdida accidental de datos. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta. ",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 6
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Trigger: Los triggers (TRIGGERS) definidos en la tabla pueden interceptar la operación DELETE y realizar acciones adicionales, como auditoría o validaciones. Asegúrate de estar al tanto de cualquier trigger asociado que pueda afectar o intervenir en la eliminación de filas. ",
+      "Restricciones de Seguridad: Debes tener los permisos adecuados para ejecutar una sentencia DELETE. Los permisos necesarios pueden variar según el rol del usuario y la configuración de seguridad de la base de datos. ",
+      "Restricciones de Identidad: Aunque no puedes eliminar directamente restricciones específicas relacionadas con columnas de identidad (IDENTITY), debes considerar que la eliminación de una fila con una columna de identidad no afectará el valor de la columna de identidad en otras filas. ",
+      "Restricciones de Datos: No hay restricciones específicas en cuanto a los datos que puedes eliminar más allá de las reglas generales mencionadas, pero debes estar consciente de la posibilidad de eliminar datos importantes o necesarios para el funcionamiento de la aplicación o de otros procesos. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta. ",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 7
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:\r\n",
+    "opciones": [
+      "Restricciones de Seguridad: Debes tener los permisos adecuados para ejecutar una sentencia DELETE. Los permisos necesarios pueden variar según el rol del usuario y la configuración de seguridad de la base de datos. ",
+      "Restricciones de Identidad: Aunque no puedes eliminar directamente restricciones específicas relacionadas con columnas de identidad (IDENTITY), debes considerar que la eliminación de una fila con una columna de identidad no afectará el valor de la columna de identidad en otras filas. ",
+      "Restricciones de Datos: No hay restricciones específicas en cuanto a los datos que puedes eliminar más allá de las reglas generales mencionadas, pero debes estar consciente de la posibilidad de eliminar datos importantes o necesarios para el funcionamiento de la aplicación o de otros procesos. ",
+      "Restricciones de Borrado en Cascada: En tablas con reglas de borrado en cascada (ON DELETE CASCADE), la eliminación de una fila puede desencadenar la eliminación automática de filas relacionadas en otras tablas. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta. ",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 8
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Transacciones: Las operaciones de DELETE no se pueden agrupar en transacciones. Si una transacción falla, SQL Server puede revertir todas las eliminaciones realizadas durante esa transacción, manteniendo la integridad de la base de datos. ",
+      "Restricciones de Vista: Si intentas eliminar filas a través de una vista, la vista no es requerida que se actualizable. ",
+      "Restricciones de Concurrencia: SQL Server utiliza bloqueos para manejar la concurrencia durante la operación de DELETE. Estos bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la eliminación. ",
+      "Restricciones de Filtros: Asegúrate de usar la cláusula WHERE correctamente. Si omites la cláusula WHERE, se eliminarán todas las filas de la tabla, lo que podría resultar en la pérdida accidental de datos. ",
+      "Mas de una respuesta es Correcta. ",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 9
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Transacciones: Las operaciones de DELETE no se pueden agrupar en transacciones. Si una transacción falla, SQL Server puede revertir todas las eliminaciones realizadas durante esa transacción, manteniendo la integridad de la base de datos. ",
+      "Restricciones de Vista: Si intentas eliminar filas a través de una vista, la vista no es requerida que se actualizable. ",
+      "Restricciones de Concurrencia: SQL Server no utiliza bloqueos para manejar la concurrencia durante la operación de DELETE, eso es debido a que bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la eliminación. ",
+      "Restricciones de Filtros: La cláusula WHERE no debe usarse para la sentencia DELETE, ya que no se borrarian todos los registro de todas las filas de la tabla, lo que podría resultar en la pérdida accidental de datos. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 10
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Transacciones: Las operaciones de DELETE no se pueden agrupar en transacciones. Si una transacción falla, SQL Server puede revertir todas las eliminaciones realizadas durante esa transacción, manteniendo la integridad de la base de datos. ",
+      "Restricciones de Vista: Si intentas eliminar filas a través de una vista, la vista no es requerida que se actualizable. ",
+      "Restricciones de Concurrencia: SQL Server no utiliza bloqueos para manejar la concurrencia durante la operación de DELETE, eso es debido a que bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la eliminación. ",
+      "Restricciones de Filtros: La cláusula WHERE no debe usarse para la sentencia DELETE, ya que no se borrarian todos los registro de todas las filas de la tabla, lo que podría resultar en la pérdida accidental de datos. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 11
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Seguridad: Debes tener los permisos adecuados para ejecutar una sentencia DELETE. Los permisos necesarios pueden variar según el rol del usuario y la configuración de seguridad de la base de datos. ",
+      "Restricciones de Vista: Si intentas eliminar filas a través de una vista, la vista no es requerida que se actualizable. ",
+      "Restricciones de Concurrencia: SQL Server no utiliza bloqueos para manejar la concurrencia durante la operación de DELETE, eso es debido a que bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la eliminación. ",
+      "Restricciones de Filtros: La cláusula WHERE no debe usarse para la sentencia DELETE, ya que no se borrarian todos los registro de todas las filas de la tabla, lo que podría resultar en la pérdida accidental de datos. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 12
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Transacciones: Las operaciones de DELETE no se pueden agrupar en transacciones. Si una transacción falla, SQL Server puede revertir todas las eliminaciones realizadas durante esa transacción, manteniendo la integridad de la base de datos. ",
+      "Restricciones de Vista: Si intentas eliminar filas a través de una vista, la vista debe ser actualizable. Algunas vistas, especialmente aquellas que involucran uniones complejas, agregaciones o agregaciones de datos, pueden no ser actualizables directamente. ",
+      "Restricciones de Concurrencia: SQL Server no utiliza bloqueos para manejar la concurrencia durante la operación de DELETE, eso es debido a que bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la eliminación. ",
+      "Restricciones de Filtros: La cláusula WHERE no debe usarse para la sentencia DELETE, ya que no se borrarian todos los registro de todas las filas de la tabla, lo que podría resultar en la pérdida accidental de datos. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 13
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Transacciones: Las operaciones de DELETE no se pueden agrupar en transacciones. Si una transacción falla, SQL Server puede revertir todas las eliminaciones realizadas durante esa transacción, manteniendo la integridad de la base de datos. ",
+      "Restricciones de Vista: Si intentas eliminar filas a través de una vista, la vista no es requerida que se actualizable. ",
+      "Restricciones de Concurrencia: SQL Server utiliza bloqueos para manejar la concurrencia durante la operación de DELETE. Estos bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la eliminación. ",
+      "Restricciones de Filtros: La cláusula WHERE no debe usarse para la sentencia DELETE, ya que no se borrarian todos los registro de todas las filas de la tabla, lo que podría resultar en la pérdida accidental de datos. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 14
+  },
+  {
+    "texto": "Sentencia DELETE => Restricciones de Datos:",
+    "opciones": [
+      "Restricciones de Transacciones: Las operaciones de DELETE no se pueden agrupar en transacciones. Si una transacción falla, SQL Server puede revertir todas las eliminaciones realizadas durante esa transacción, manteniendo la integridad de la base de datos. ",
+      "Restricciones de Vista: Si intentas eliminar filas a través de una vista, la vista no es requerida que se actualizable. ",
+      "Restricciones de Concurrencia: SQL Server no utiliza bloqueos para manejar la concurrencia durante la operación de DELETE, eso es debido a que bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la eliminación. ",
+      "Restricciones de Filtros: Asegúrate de usar la cláusula WHERE correctamente. Si omites la cláusula WHERE, se eliminarán todas las filas de la tabla, lo que podría resultar en la pérdida accidental de datos. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 15
+  }
+  ]
+  ,
+  "tema15": [
+      {
+    "texto": "Primera Forma Normal:",
+    "opciones": [
+      "Toda Base de datos se encuentra por defecto en la Primera forma Normal.",
+      "Una BBDD se encuentra en 1FN si todo atributo contiene un valor indivisible o atomico (ausencia de grupos repetitivos).",
+      "Una BBDD se encuentra en 1FN si dada una clave primaria y cualquier campo que no sea un constituyente de la clave primaria.",
+      "Una BBDD se encuentra en 1FN si ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 16
+  },
+  {
+    "texto": "Segunda Forma Normal:",
+    "opciones": [
+      "Una BBDD se encuentra en 2FN si todo atributo contiene un valor indivisible o atomico (ausencia de grupos repetitivos). ",
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y dada una clave primaria y cualquier campo que no sea un constituyente de la clave primaria, el campo NO clave depende de toda la clave primaria y no solo de una parte.",
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y Ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 17
+  },
+  {
+    "texto": "Segunda Forma Normal:\r\n",
+    "opciones": [
+      "Una BBDD se encuentra en 2FN si todo atributo contiene un valor indivisible o atomico (ausencia de grupos repetitivos). ",
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y si no existen dependencias parciales de atributos no clave en una clave primaria compuesta. ",
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y dada una clave primaria y cualquier campo que no sea un constituyente de la clave primaria, el campo NO clave depende de toda la clave primaria y no solo de una parte. ",
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y Ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 18
+  },
+  {
+    "texto": "Segunda Forma Normal:\r\n",
+    "opciones": [
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y si todo atributo contiene un valor indivisible o atomico (ausencia de grupos repetitivos). ",
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y si no existen dependencias parciales de atributos no clave en una clave primaria compuesta. ",
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y dada una clave primaria y cualquier campo que no sea un constituyente de la clave primaria, el campo NO clave depende de toda la clave primaria y no solo de una parte. ",
+      "Una BBDD se encuentra en 2FN si y solo si, esta en 1FN y cada atributo no clave debe depender completamente de toda la clave primaria, no solo de una parte de ella. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 19
+  },
+  {
+    "texto": "Tercera Forma Normal:\r\n",
+    "opciones": [
+      "Una BBDD se encuentra en 3FN si todo atributo contiene un valor indivisible o atomico (ausencia de grupos repetitivos). ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y dada una clave primaria y cualquier campo que no sea un constituyente de la clave primaria, el campo NO clave depende de toda la clave primaria y no solo de una parte. ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y Ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 1FN y Ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 20
+  },
+  {
+    "texto": "Tercera Forma Normal:\r\n",
+    "opciones": [
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y  se debe eliminar cualquier dependencia transitoria.",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y dada una clave primaria y cualquier campo que no sea un constituyente de la clave primaria, el campo NO clave depende de toda la clave primaria y no solo de una parte. ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y Ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 1FN y Ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 21
+  },
+  {
+    "texto": "Tercera Forma Normal:\r\n",
+    "opciones": [
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y  se debe eliminar cualquier dependencia transitoria. ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y ningún atributo no clave debe depender de otro atributo no clave. Todos los atributos no clave deben depender únicamente de la clave primaria. ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y Ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 1FN y Ningún atributo no clave depende de otro no clave (dependencia transitiva). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 22
+  },
+  {
+    "texto": "Tercera Forma Normal:\r\n",
+    "opciones": [
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y  se debe eliminar cualquier dependencia transitoria. ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y ningún atributo no clave debe depender de otro atributo no clave. ",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y ningún atributo no clave depende de otro no clave (dependencia transitiva).",
+      "Una BBDD se encuentra en 3FN si y solo si, esta en 2FN y todos los atributos no clave deben depender únicamente de la clave primaria. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 23
+  }
+  ]
+  ,
+  "tema16": [
+      {
+    "texto": "Funcion de Agregado:\r\n",
+    "opciones": [
+      "Operan sobre un conjunto de valores y devuelven un único valor como resultado de una consulta. ",
+      "Operan sobre un conjunto de valores y devuelven un único valor (por ejemplo, SUM(), AVG(), MAX(), MIN()). ",
+      "Devuelven un solo valor (por ejemplo, LEN(), GETDATE(), UPPER()). ",
+      "Se utilizan para calcular valores individuales. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 7
+  },
+  {
+    "texto": "Funcion de Agregado:\r\n",
+    "opciones": [
+      "Operan sobre un conjunto de valores y devuelven un único valor como resultado de una consulta. ",
+      "Operan sobre un conjunto de valores y devuelven mas de 1 valor. ",
+      "Devuelven un solo valor (por ejemplo, LEN(), GETDATE(), UPPER()). ",
+      "Se utilizan para calcular valores individuales.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 8
+  },
+  {
+    "texto": "Funcion de Agregado:\r\n",
+    "opciones": [
+      "Operan sobre un conjunto de valores y devuelven una lista de valores como resultado de una consulta. ",
+      "Operan sobre un conjunto de valores y devuelven un único valor (por ejemplo, SUM(), AVG(), MAX(), MIN()).",
+      "Devuelven un solo valor (por ejemplo, LEN(), GETDATE(), UPPER()). ",
+      "Se utilizan para calcular valores individuales.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 9
+  },
+  {
+    "texto": "Funcion de Escaleres:\r\n",
+    "opciones": [
+      "Toman un solo valor y retornan un único valor. ",
+      "Devuelven un solo valor (por ejemplo, LEN(), GETDATE(), UPPER()). ",
+      "Se utilizan para calcular valores individuales. ",
+      "Operan sobre un conjunto de valores y devuelven un único valor (por ejemplo, SUM(), AVG(), MAX(), MIN()). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 10
+  },
+  {
+    "texto": "Funcion de Escaleres:\r\n",
+    "opciones": [
+      "Operan sobre un conjunto de valores y devuelven un único valor como resultado de una consulta. ",
+      "Operan sobre un conjunto de valores y devuelven un único valor (por ejemplo, SUM(), AVG(), MAX(), MIN()).",
+      "Toman un solo valor y retornan un único valor. ",
+      "Devuelve una lista de valores (por ejemplo, LEN(), GETDATE(), UPPER()).",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 11
+  },
+  {
+    "texto": "Funcion de Escaleres:\r\n",
+    "opciones": [
+      "Operan sobre un conjunto de valores y devuelven un único valor como resultado de una consulta. ",
+      "Operan sobre un conjunto de valores y devuelven un único valor (por ejemplo, SUM(), AVG(), MAX(), MIN()). ",
+      "Toman un solo valor y retornan una lista de valores. ",
+      "Devuelven un solo valor (por ejemplo, LEN(), GETDATE(), UPPER()). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 12
+  },
+  {
+    "texto": "Funcion str:\r\n",
+    "opciones": [
+      "Convierte números a caracteres. ",
+      "Usa 3 paramtros alfanumericos para la funcion. ",
+      "Usa 3 paramtros numericos para la funcion. ",
+      "El primer y segundo argumento son opcionales y deben ser positivos. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 13
+  },
+  {
+    "texto": "Funcion str:\r\n",
+    "opciones": [
+      "Convierte caracteres a numeros. ",
+      "Usa 3 paramtros alfanumericos para la funcion. ",
+      "Usa 3 paramtros numericos para la funcion. ",
+      "El segundo y el tercer argumento son opcionales y deben ser positivos.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 14
+  },
+  {
+    "texto": "Funcion str:\r\n",
+    "opciones": [
+      "Convierte números a caracteres.",
+      "Usa 3 paramtros numericos para la funcion. ",
+      "El segundo y el tercer argumento son opcionales y deben ser positivos. ",
+      "El segundo argumento es la longitud del resultado (debe ser mayor o igual a la parte entera del número más el signo si lo tuviese).",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 15
+  },
+  {
+    "texto": "Funcion str:\r\n",
+    "opciones": [
+      "Convierte caracteres a numeros. ",
+      "Usa 3 paramtros alfanumericos para la funcion. ",
+      "Retorna la longitud de la cadena enviada como argumento. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 16
+  },
+  {
+    "texto": "Funcion len:\r\n",
+    "opciones": [
+      "Convierte caracteres a numeros. ",
+      "Retorna la longitud de la cadena enviada como argumento.",
+      "El segundo y tercer argumento son opcionales y deben ser positivos. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 17
+  },
+  {
+    "texto": "Funcion len:\r\n",
+    "opciones": [
+      "Convierte caracteres a numeros.",
+      "Retorna un caracter en código ASCII del entero enviado como argumento. ",
+      "El segundo y tercer argumento son opcionales y deben ser positivos.",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 18
+  },
+  {
+    "texto": "Funcion left:\r\n",
+    "opciones": [
+      "Convierte caracteres a numeros. ",
+      "Retorna un caracter en código ASCII del entero enviado como argumento.",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter.",
+      "Retorna la cadena con los espacios de la izquierda eliminados.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 19
+  },
+  {
+    "texto": "Funcion right:\r\n",
+    "opciones": [
+      "Convierte caracteres a numeros. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la derecha, último caracter. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter. ",
+      "Retorna la cadena con los espacios de la izquierda eliminados.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 20
+  },
+  {
+    "texto": "Funcion lower:\r\n",
+    "opciones": [
+      "Retornan la cadena con todos los caracteres en minúsculas. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la derecha, último caracter. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter. ",
+      "Retorna la cadena con los espacios de la izquierda eliminados. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 21
+  },
+  {
+    "texto": "Funcion lower:\r\n",
+    "opciones": [
+      "Retornan la cadena con todos los caracteres en mayúsculas. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la derecha, último caracter.",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter. ",
+      "Retorna la cadena con los espacios de la izquierda eliminados.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 22
+  },
+  {
+    "texto": "Funcion upper:\r\n",
+    "opciones": [
+      "Retornan la cadena con todos los caracteres en minúsculas.  ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la derecha, último caracter. ",
+      "Retornan la cadena con todos los caracteres en mayúsculas. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 23
+  },
+  {
+    "texto": "Funcion upper:\r\n",
+    "opciones": [
+      "Retornan la cadena con todos los caracteres en minúsculas. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la derecha, último caracter.",
+      "Retorna la longitud de la cadena enviada como argumento.",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 24
+  },
+  {
+    "texto": "Funcion ltrim:",
+    "opciones": [
+      "Retornan la cadena con todos los caracteres en minúsculas.",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la derecha, último caracter.",
+      "Retorna la cadena con los espacios de la izquierda eliminados.",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 25
+  },
+  {
+    "texto": "Funcion rtrim:",
+    "opciones": [
+      "Retornan la cadena con todos los caracteres en minúsculas. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la derecha, último caracter.",
+      "Retorna la cadena con los espacios de la derecha eliminados.",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 26
+  },
+  {
+    "texto": "Funcion replace:",
+    "opciones": [
+      "Retornan la cadena con todos los caracteres en minúsculas.",
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar.",
+      "Retorna la cadena con los espacios de la derecha eliminados. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 27
+  },
+  {
+    "texto": "Funcion replace:",
+    "opciones": [
+      "Retornan la cadena con todos los caracteres en minúsculas.",
+      "Devuelve la cadena invirtiendo el orden de los caracteres.",
+      "Retorna la cadena con los espacios de la derecha eliminados.",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 28
+  },
+  {
+    "texto": "Funcion patindex:",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar. ",
+      "Devuelve la cadena invirtiendo el orden de los caracteres.",
+      "Retorna la cadena con los espacios de la derecha eliminados. ",
+      "Devuelve la posición de comienzo (de la primera ocurrencia) del patrón especificado en la cadena enviada como segundo argumento. Si no la encuentra retorna 0. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 29
+  },
+  {
+    "texto": "Funcion patindex:",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar.",
+      "Devuelve la cadena invirtiendo el orden de los caracteres.",
+      "Retorna la cadena con los espacios de la derecha eliminados. ",
+      "Devuelve la posición de comienzo (de la primera ocurrencia) del patrón especificado en la cadena enviada como segundo argumento. Si no la encuentra retorna 1. (F)",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 30
+  },
+  {
+    "texto": "Funcion replicate:\r\n",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar.",
+      "Devuelve la cadena invirtiendo el orden de los caracteres.",
+      "Retorna la cadena con los espacios de la derecha eliminados. ",
+      "Devuelve la posición de comienzo (de la primera ocurrencia) del patrón especificado en la cadena enviada como segundo argumento. Si no la encuentra retorna 0. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 31
+  },
+  {
+    "texto": "Funcion replicate:",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar.",
+      "Devuelve la cadena invirtiendo el orden de los caracteres.",
+      "Repite una cadena la cantidad de veces especificada. ",
+      "Devuelve la posición de comienzo (de la primera ocurrencia) del patrón especificado en la cadena enviada como segundo argumento. Si no la encuentra retorna 0. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 32
+  },
+  {
+    "texto": "Funcion replicate:",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar.",
+      "Devuelve la cadena invirtiendo el orden de los caracteres.",
+      "Retorna la longitud de la cadena enviada como argumento. ",
+      "Devuelve la posición de comienzo (de la primera ocurrencia) del patrón especificado en la cadena enviada como segundo argumento. Si no la encuentra retorna 0. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 33
+  },
+  {
+    "texto": "Funcion space:\r\n",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar. ",
+      "Retorna una cadena de espacios de longitud indicada por \"cantidad\", que debe ser un valor positivo. ",
+      "Retorna la longitud de la cadena enviada como argumento. ",
+      "Devuelve la posición de comienzo (de la primera ocurrencia) del patrón especificado en la cadena enviada como segundo argumento. Si no la encuentra retorna 0.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 34
+  },
+  {
+    "texto": "Funcion space:\r\n",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar.",
+      "Retorna la cadena con los espacios de la izquierda eliminados.",
+      "Retorna la longitud de la cadena enviada como argumento. ",
+      "Devuelve la posición de comienzo (de la primera ocurrencia) del patrón especificado en la cadena enviada como segundo argumento. Si no la encuentra retorna 0. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 35
+  },
+  {
+    "texto": "Funcion space:\r\n",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter. ",
+      "Retorna la longitud de la cadena enviada como argumento. ",
+      "Devuelve la posición de comienzo (de la primera ocurrencia) del patrón especificado en la cadena enviada como segundo argumento. Si no la encuentra retorna 0. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 36
+  },
+  {
+    "texto": "Funcion space:\r\n",
+    "opciones": [
+      "Retorna la cadena con todas las ocurrencias de la subcadena reemplazo por la subcadena a reemplazar. ",
+      "Retorna la cantidad (longitud) de caracteres de la cadena comenzando desde la izquierda, primer caracter.",
+      "Retorna la longitud de la cadena enviada como argumento. ",
+      "Convierte números a caracteres. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 37
+  }
+  ]
+  ,
+  "tema17": [
+      {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de sentencias que operan como una unidad lógica.",
+      "Tiene un nombre, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server no pueden ser modificadas, las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre los datos.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 38
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server no pueden ser modificadas, las funciones definidas por el usuario si.",
+      "Permiten realizar operaciones específicas sobre los datos. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 39
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de sentencias que operan como una unidad lógica. ",
+      "Tiene un nombre, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 40
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 41
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de sentencias que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 42
+  },
+  {
+    "texto": "Que es una funcion ?",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "Tiene un nombre, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 43
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server no pueden ser modificadas, las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 44
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre los datos. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 45
+  }
+  ],
+  "tema18": [
+      {
+    "texto": "Sentencia INSERT => Restricciones de Insercion:",
+    "opciones": [
+      "Restricciones de Sinónimos y Vista: Si intentas insertar datos en una vista o sinónimo, debes asegurarte de que la vista o sinónimo sea actualizable. Algunas vistas pueden ser de solo lectura, en cuyo caso no podrás realizar una inserción directamente.",
+      "Restricciones de Tabla Particionada: Si la tabla es particionada, la inserción debe cumplir con las reglas de particionamiento definidas para que los datos se distribuyan correctamente entre las particiones.",
+      "Restricciones de Identidad: Si una columna está configurada como una columna de identidad (IDENTITY), SQL Server generará automáticamente un valor para esa columna. No puedes especificar un valor para una columna de identidad durante una inserción, a menos que uses SET IDENTITY_INSERT para esa tabla.",
+      "Restricciones de Locks: Durante una inserción, SQL Server puede aplicar bloqueos en la tabla para asegurar la integridad de los datos, lo que podría afectar el rendimiento y la concurrencia.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 24
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Insercion:",
+    "opciones": [
+      "Restricciones de Sinónimos y Vista: Si intentas insertar datos en una vista o sinónimo, debes asegurarte de que la vista o sinónimo no sea actualizable. Algunas vistas pueden ser de solo lectura, en cuyo caso no podrás realizar una inserción directamente. ",
+      "Restricciones de Tabla Particionada: Si la tabla es particionada, la inserción debe no cumplir con las reglas de particionamiento definidas para que los datos se distribuyan correctamente entre las particiones. ",
+      "Restricciones de Identidad: Si una columna está configurada como una columna de identidad (IDENTITY), SQL Server generará no automáticamente un valor para esa columna y se debe aleatorio especificar un valor para una columna de identidad durante una inserción, a menos que uses SET IDENTITY_INSERT para esa tabla. ",
+      "Restricciones de Locks: Durante una inserción, SQL Server no puede aplicar bloqueos en la tabla para asegurar la integridad de los datos, lo que podría afectar el rendimiento y la concurrencia. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta. ",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 25
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Clave Primaria: No puedes insertar valores duplicados en una columna que esté definida como clave primaria.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea deben coincidir con los valores existentes en la tabla referenciada o ser nulos.",
+      "Restricciones de Unicidad: No puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 26
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Clave Primaria: Puedes insertar valores duplicados en una columna que esté definida como clave primaria.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea no deben coincidir con los valores existentes en la tabla referenciada de forma que se genere una nueva clave. ",
+      "Restricciones de Unicidad: Puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados no deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 27
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Insercion:",
+    "opciones": [
+      "Restricciones de Sinónimos y Vista: Si intentas insertar datos en una vista o sinónimo, debes asegurarte de que la vista o sinónimo sea actualizable. Algunas vistas pueden ser de solo lectura, en cuyo caso no podrás realizar una inserción directamente.",
+      "Restricciones de Tabla Particionada: Si la tabla es particionada, la inserción debe no cumplir con las reglas de particionamiento definidas para que los datos se distribuyan correctamente entre las particiones.",
+      "Restricciones de Identidad: Si una columna está configurada como una columna de identidad (IDENTITY), SQL Server generará no automáticamente un valor para esa columna y se debe aleatorio especificar un valor para una columna de identidad durante una inserción, a menos que uses SET IDENTITY_INSERT para esa tabla.",
+      "Restricciones de Locks: Durante una inserción, SQL Server no puede aplicar bloqueos en la tabla para asegurar la integridad de los datos, lo que podría afectar el rendimiento y la concurrencia.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 28
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Clave Primaria: No puedes insertar valores duplicados en una columna que esté definida como clave primaria.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea no deben coincidir con los valores existentes en la tabla referenciada de forma que se genere una nueva clave.",
+      "Restricciones de Unicidad: Puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados no deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 29
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Insercion:",
+    "opciones": [
+      "Restricciones de Sinónimos y Vista: Si intentas insertar datos en una vista o sinónimo, debes asegurarte de que la vista o sinónimo sea actualizable. Algunas vistas pueden ser de solo lectura, en cuyo caso no podrás realizar una inserción directamente.",
+      "Restricciones de Tabla Particionada: Si la tabla es particionada, la inserción debe cumplir con las reglas de particionamiento definidas para que los datos se distribuyan correctamente entre las particiones.",
+      "Restricciones de Unicidad: Puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados no deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 30
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Clave Primaria: Puedes insertar valores duplicados en una columna que esté definida como clave primaria.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea no deben coincidir con los valores existentes en la tabla referenciada de forma que se genere una nueva clave. ",
+      "Restricciones de Unicidad: No puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta. ",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 31
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Sinónimos y Vista: Si intentas insertar datos en una vista o sinónimo, debes asegurarte de que la vista o sinónimo sea actualizable. Algunas vistas pueden ser de solo lectura, en cuyo caso no podrás realizar una inserción directamente.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea no deben coincidir con los valores existentes en la tabla referenciada de forma que se genere una nueva clave.",
+      "Restricciones de Unicidad: Puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados no deben cumplir con las condiciones definidas en las restricciones de verificación. ",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta. ",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 32
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Clave Primaria: Puedes insertar valores duplicados en una columna que esté definida como clave primaria.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea deben coincidir con los valores existentes en la tabla referenciada o ser nulos. ",
+      "Restricciones de Unicidad: Puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados no deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 33
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Clave Primaria: Puedes insertar valores duplicados en una columna que esté definida como clave primaria.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea no deben coincidir con los valores existentes en la tabla referenciada de forma que se genere una nueva clave.",
+      "Restricciones de Unicidad: Puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 34
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Clave Primaria: No puedes insertar valores duplicados en una columna que esté definida como clave primaria.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea no deben coincidir con los valores existentes en la tabla referenciada de forma que se genere una nueva clave.",
+      "Restricciones de Unicidad: No puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 35
+  },
+  {
+    "texto": "Sentencia INSERT => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Clave Primaria: No puedes insertar valores duplicados en una columna que esté definida como clave primaria.",
+      "Restricciones de Clave Foránea: Los valores que insertes en una columna con clave foránea no deben coincidir con los valores existentes en la tabla referenciada de forma que se genere una nueva clave.",
+      "Restricciones de Unicidad: Puedes insertar valores duplicados en columnas con restricciones de unicidad.",
+      "Restricciones de Verificación: Los valores insertados deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 36
+  }
+  ],
+  "tema19": [
+      {
+    "texto": "Las BBDDs se Normalizan con el proposito de:",
+    "opciones": [
+      "Evitar la redundancia de los datos.",
+      "Disminuir problemas de actualización de los datos en las tablas.",
+      "Proteger la integridad de los datos. ",
+      "Evitar Anomalías de Actualización.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 37
+  },
+  {
+    "texto": "Las BBDDs se Normalizan con el proposito de:",
+    "opciones": [
+      "Asegurar la redundancia de los datos.",
+      "Aunmentar los volumenes de datos de actualización de los datos en las tablas. ",
+      "Proteger la integridad de los datos.",
+      "Evitar Anomalías de Actualización. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 38
+  },
+  {
+    "texto": "Las BBDDs se Normalizan con el proposito de:\r\n",
+    "opciones": [
+      "Evitar la redundancia de los datos. ",
+      "Disminuir problemas de actualización de los datos en las tablas.",
+      "No tener integridad de los datos. ",
+      "Realizacion de Actualización de datos sin integridad.",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 39
+  },
+  {
+    "texto": "Las BBDDs se Normalizan con el proposito de:",
+    "opciones": [
+      "Asegurar la redundancia de los datos.",
+      "Aunmentar los volumenes de datos de actualización de los datos en las tablas.",
+      "No tener integridad de los datos. ",
+      "Realizacion de Actualización de datos sin integridad. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 40
+  },
+  {
+    "texto": "Las BBDDs se Normalizan con el proposito de:",
+    "opciones": [
+      "Evitar la redundancia de los datos.",
+      "Aunmentar los volumenes de datos de actualización de los datos en las tablas. ",
+      "No tener integridad de los datos. ",
+      "Realizacion de Actualización de datos sin integridad. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 41
+  },
+  {
+    "texto": "Las BBDDs se Normalizan con el proposito de:",
+    "opciones": [
+      "Asegurar la redundancia de los datos.",
+      "Disminuir problemas de actualización de los datos en las tablas.",
+      "No tener integridad de los datos.",
+      "Realizacion de Actualización de datos sin integridad.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 42
+  },
+  {
+    "texto": "Las BBDDs se Normalizan con el proposito de:",
+    "opciones": [
+      "Asegurar la redundancia de los datos.",
+      "Aunmentar los volumenes de datos de actualización de los datos en las tablas.",
+      "Proteger la integridad de los datos.",
+      "Realizacion de Actualización de datos sin integridad. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 43
+  },
+  {
+    "texto": "Las BBDDs se Normalizan con el proposito de:",
+    "opciones": [
+      "Asegurar la redundancia de los datos. ",
+      "Aunmentar los volumenes de datos de actualización de los datos en las tablas. ",
+      "No tener integridad de los datos.",
+      "Evitar Anomalías de Actualización.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 44
+  }
+  ],
+  "tema20": [
+      {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta en SQL?\r\n\r\n",
+    "opciones": [
+      "54",
+      "522",
+      "Error: El valor excede el tamaño del tipo de datos",
+      "5422"
+    ],
+    "correcta": 1,
+    "multiple": "practfuncion",
+    "id": 50
+  },
+  {
+    "texto": "¿Cuál es el resultado de ejecutar la siguiente consulta en SQL?\r\n\r\n",
+    "opciones": [
+      "ABC",
+      "ABC123",
+      "Error: Longitud excedida",
+      "ABC12"
+    ],
+    "correcta": 3,
+    "multiple": "practfuncion",
+    "id": 51
+  }
+  ],
+  "tema21": [
+      {
+    "texto": "Caracteristicas de una RELACION:",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre una o más entidades y no tiene sentido sin las entidades que relaciona.",
+      "Las relaciones son definidas con claves primarias y claves foráneas, manteniendo la integridad referencial.",
+      "La cardinalidad especifica cuántas instancias de una entidad pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos). ",
+      "La participación define si la entidad debe estar involucrada en la relación (total o parcial). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 45
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:\r\n",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre más entidades y no tiene sentido sin las entidades que relaciona. ",
+      "Las relaciones son definidas con claves primarias y claves foráneas, manteniendo la integridad referencial. ",
+      "La cardinalidad especifica cuántas instancias de una entidad pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos).",
+      "La participación define si la entidad debe estar involucrada en la relación (total o parcial). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 46
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre una o más entidades y no tiene sentido sin las entidades que relaciona.",
+      "Las relaciones son definidas con claves primarias y sin claves foráneas, manteniendo la integridad referencial. ",
+      "La cardinalidad especifica cuántas instancias de una entidad pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos).",
+      "La participación define si la entidad debe estar involucrada en la relación (total o parcial). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 47
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:\r\n",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre una o más entidades y no tiene sentido sin las entidades que relaciona. ",
+      "Las relaciones son definidas con claves primarias y claves foráneas, manteniendo la integridad referencial.",
+      "La cardinalidad especifica cuántas instancias de una relacion pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos). ",
+      "La participación define si la entidad debe estar involucrada en la relación (total o parcial). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 48
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:\r\n",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre una o más entidades y no tiene sentido sin las entidades que relaciona. ",
+      "Las relaciones son definidas con claves primarias y claves foráneas, manteniendo la integridad referencial. ",
+      "La cardinalidad especifica cuántas instancias de una entidad pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos). ",
+      "La participación define si la relacion debe estar involucrada con el atributo (total o parcial). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 49
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:\r\n",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre más entidades y no tiene sentido sin las entidades que relaciona. ",
+      "Las relaciones son definidas con claves primarias y sin claves foráneas, manteniendo la integridad referencial. ",
+      "La cardinalidad especifica cuántas instancias de una relacion pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos). ",
+      "La participación define si la relacion debe estar involucrada con el atributo (total o parcial). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 50
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre una o más entidades y no tiene sentido sin las entidades que relaciona. ",
+      "Las relaciones son definidas con claves primarias y sin claves foráneas, manteniendo la integridad referencial. ",
+      "La cardinalidad especifica cuántas instancias de una relacion pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos). ",
+      "La participación define si la relacion debe estar involucrada con el atributo (total o parcial). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 51
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:\r\n",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre más entidades y no tiene sentido sin las entidades que relaciona. ",
+      "Las relaciones son definidas con claves primarias y claves foráneas, manteniendo la integridad referencial. ",
+      "La cardinalidad especifica cuántas instancias de una relacion pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos). ",
+      "La participación define si la relacion debe estar involucrada con el atributo (total o parcial). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 52
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre más entidades y no tiene sentido sin las entidades que relaciona. ",
+      "Las relaciones son definidas con claves primarias y sin claves foráneas, manteniendo la integridad referencial. ",
+      "La cardinalidad especifica cuántas instancias de una entidad pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos). ",
+      "La participación define si la relacion debe estar involucrada con el atributo (total o parcial). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 53
+  },
+  {
+    "texto": "Caracteristicas de una RELACION:",
+    "opciones": [
+      "Una relación describe cierta interdependencia entre más entidades y no tiene sentido sin las entidades que relaciona. ",
+      "Las relaciones son definidas con claves primarias y sin claves foráneas, manteniendo la integridad referencial. ",
+      "La cardinalidad especifica cuántas instancias de una relacion pueden estar asociadas con instancias de otra entidad (uno a uno, uno a muchos, muchos a muchos). ",
+      "La participación define si la entidad debe estar involucrada en la relación (total o parcial). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 54
+  }
+  ],
+  "tema22": [
+      {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan automáticamente en respuesta a eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona dos tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE) y Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 55
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados no pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan automáticamente en respuesta a eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona dos tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE) y Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 56
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas, pero no para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan automáticamente en respuesta a eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona dos tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE) y Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE). ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 57
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan unicamente de forma manual  por el DBA ante eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona dos tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE) y Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 58
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan automáticamente en respuesta a eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona tres tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE); Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE) y La generacion de consultas con alteracion de tipo de datos DAL (DATA ALTERATION LANGUAGE). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 59
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados no pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas, pero no para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan unicamente de forma manual  por el DBA ante eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona tres tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE); Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE) y La generacion de consultas con alteracion de tipo de datos DAL (DATA ALTERATION LANGUAGE). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 60
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas, pero no para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan unicamente de forma manual  por el DBA ante eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona tres tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE); Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE) y La generacion de consultas con alteracion de tipo de datos DAL (DATA ALTERATION LANGUAGE). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 61
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados no pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan unicamente de forma manual  por el DBA ante eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona tres tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE); Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE) y La generacion de consultas con alteracion de tipo de datos DAL (DATA ALTERATION LANGUAGE).",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 62
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados no pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas, pero no para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan automáticamente en respuesta a eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona tres tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE); Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE) y La generacion de consultas con alteracion de tipo de datos DAL (DATA ALTERATION LANGUAGE). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 63
+  },
+  {
+    "texto": "Extensiones del Lenguaje SQL:",
+    "opciones": [
+      "Procedimientos Almacenados (Stored Procedures): permite definir procedimientos almacenados que encapsulan y reutilizan código SQL. Los procedimientos almacenados no pueden aceptar parámetros y devolver resultados, lo que facilita la modularización y la reutilización de código. ",
+      "Funciones Definidas por el Usuario (UDFs): Puedes definir funciones personalizadas que pueden ser utilizadas en consultas, pero no para realizar cálculos complejos o transformaciones de datos. ",
+      "Triggers: T-SQL soporta triggers que son procedimientos que se ejecutan unicamente de forma manual  por el DBA ante eventos específicos, como inserciones, actualizaciones o eliminaciones en una tabla. ",
+      "Proporciona tres tipos de sentencias diferentes: Especificar el esquema relacional: DDL (DATA DEFINITION LANGUAGE); Expresar las consultas y actualizaciones de la base de datos: DML(DATA MANIPULATION LANGUAGE) y La generacion de consultas con alteracion de tipo de datos DAL (DATA ALTERATION LANGUAGE). ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 64
+  }
+  ],
+  "tema23": [
+      {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el cliente y el servidor. ",
+      "Es un lenguaje exclusivo de SQL Server, pero basado en el lenguaje SQL estándar (ANSI SQL).",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales que existen.",
+      "Incluye todas las características de SQL estándar, pero añade elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 65
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el Servidor y el Cliente.",
+      "Es un lenguaje exclusivo de SQL Server, pero basado en el lenguaje SQL estándar (ANSI SQL).",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales que existen.",
+      "Incluye todas las características de SQL estándar, pero añade elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 66
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el Servidor y el Cliente.",
+      "Es un lenguaje OpenSource, pero basado en el lenguaje SQL estándar (ANSI SQL). ",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales que existen.",
+      "Incluye todas las características de SQL estándar, pero añade elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 67
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el Servidor y el Cliente.",
+      "Es un lenguaje OpenSource, pero basado en el lenguaje SQL estándar (ANSI SQL). ",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales y no relacionales que existen.",
+      "Incluye todas las características de SQL estándar, pero restringe los elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 68
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el cliente y el servidor. ",
+      "Es un lenguaje exclusivo de SQL Server, pero basado en el lenguaje SQL estándar (ANSI SQL).",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales y no relacionales que existen.",
+      "Incluye todas las características de SQL estándar, pero restringe los elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 69
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el cliente y el servidor.",
+      "Es un lenguaje exclusivo de SQL Server, pero basado en el lenguaje SQL estándar (ANSI SQL).",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales y no relacionales que existen.",
+      "Incluye todas las características de SQL estándar, pero añade elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 70
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el Servidor y el Cliente.",
+      "Es un lenguaje exclusivo de SQL Server, pero basado en el lenguaje SQL estándar (ANSI SQL).",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales que existen. ",
+      "Incluye todas las características de SQL estándar, pero restringe los elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 71
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el cliente y el servidor.",
+      "Es un lenguaje OpenSource, pero basado en el lenguaje SQL estándar (ANSI SQL).",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales y no relacionales que existen. ",
+      "Incluye todas las características de SQL estándar, pero restringe los elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 72
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el Servidor y el Cliente.",
+      "Es un lenguaje exclusivo de SQL Server, pero basado en el lenguaje SQL estándar (ANSI SQL).",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales y no relacionales que existen.",
+      "Incluye todas las características de SQL estándar, pero restringe los elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 73
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el Servidor y el Cliente.",
+      "Es un lenguaje OpenSource, pero basado en el lenguaje SQL estándar (ANSI SQL).",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales que existen.",
+      "Incluye todas las características de SQL estándar, pero restringe los elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 74
+  },
+  {
+    "texto": "TRANSACT-SQL",
+    "opciones": [
+      "Es el lenguaje de programación que se emplea para mandar peticiones entre el Servidor y el Cliente.",
+      "Es un lenguaje OpenSource, pero basado en el lenguaje SQL estándar (ANSI SQL). ",
+      "Es un leguaje utilizado por casi todos los tipos de bases de datos relacionales y no relacionales que existen. ",
+      "Incluye todas las características de SQL estándar, pero añade elementos adicionales que mejoran la funcionalidad y flexibilidad del lenguaje.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 75
+  }
+  ],
+  "tema24": [
+       {
+    "texto": "Funcion SUBSTRING:\r\n",
+    "opciones": [
+      "Devuelve una parte de la cadena especificada como primer argumento, empezando desde la posición especificada por el segundo argumento y de tantos caracteres de longitud como indica el tercer argumento. ",
+      "Busca una subcadena dentro de una cadena a partir de una ubicación especificada. ",
+      "Devuelve la posición de la subcadena encontrada en la cadena buscada, o cero si no se encuentra la subcadena. ",
+      "Devuelve la posición de un patrón en una cadena. Si no se encuentra el patrón, esta función devuelve 0. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 57
+  },
+  {
+    "texto": "Funcion CHARINDEX:\r\n",
+    "opciones": [
+      "Devuelve una parte de la cadena especificada como primer argumento, empezando desde la posición especificada por el segundo argumento y de tantos caracteres de longitud como indica el tercer argumento. ",
+      "Busca una subcadena dentro de una cadena a partir de una ubicación especificada. ",
+      "Devuelve la posición de la subcadena encontrada en la cadena buscada, o el valor 0 si no se encuentra la subcadena. ",
+      "La posición inicial devuelta se basa en 1, no en 0. ",
+      "Mas de una respuesta es correcta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 58
+  },
+  {
+    "texto": "Funcion CHARINDEX:\r\n",
+    "opciones": [
+      "Devuelve una parte de la cadena especificada como primer argumento, empezando desde la posición especificada por el segundo argumento y de tantos caracteres de longitud como indica el tercer argumento. ",
+      "Busca una subcadena dentro de una cadena a partir de una ubicación especificada. ",
+      "Devuelve la posición de la subcadena encontrada en la cadena buscada, o el valor 1 si no se encuentra la subcadena. ",
+      "La posición inicial devuelta se basa en 0, no en 1.",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 59
+  },
+  {
+    "texto": "Funcion CHARINDEX:\r\n",
+    "opciones": [
+      "Devuelve una parte de la cadena especificada como primer argumento, empezando desde la posición especificada por el segundo argumento y de tantos caracteres de longitud como indica el tercer argumento. ",
+      "Devuelve una subcadena dentro de una cadena a partir de una ubicación especificada. ",
+      "Devuelve la posición de la subcadena encontrada en la cadena buscada, o el valor 1 si no se encuentra la subcadena. ",
+      "La posición inicial devuelta se basa en 0, no en 1. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 60
+  },
+  {
+    "texto": "Funcion PATINDEX:\r\n",
+    "opciones": [
+      "Devuelve una parte de la cadena especificada como primer argumento, empezando desde la posición especificada por el segundo argumento y de tantos caracteres de longitud como indica el tercer argumento. ",
+      "Busca una subcadena dentro de una cadena a partir de una ubicación especificada. ",
+      "Devuelve la posición de la subcadena encontrada en la cadena buscada, o cero si no se encuentra la subcadena. ",
+      "Devuelve la posición de un patrón en una cadena. Si no se encuentra el patrón, esta función devuelve 0. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 61
+  },
+  {
+    "texto": "Funcion PATINDEX:\r\n",
+    "opciones": [
+      "Devuelve la posición de un patrón en una cadena. Si no se encuentra el patrón, esta función devuelve 0. ",
+      "Devuelve la posición de un patrón en una cadena. Si no se encuentra el patrón, esta función devuelve 1. ",
+      "Devuelve la posición de la subcadena encontrada en la cadena buscada, o cero si no se encuentra la subcadena. ",
+      "Busca una subcadena dentro de una cadena a partir de una ubicación especificada. ",
+      "Mas de una respuesta es correcta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 62
+  }
+  ],
+  "tema25": [
+      {
+    "texto": "Sentencia UPDATE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Primarias: No puedes actualizar una clave primaria de manera que se convierta en un valor duplicado.",
+      "Claves Foráneas: Los valores actualizados en una columna de clave foránea deben seguir existiendo en la tabla referenciada, a menos que se actualicen las referencias en las tablas relacionadas. ",
+      "Restricciones de Unicidad: No puedes actualizar valores en una columna que tengan una restricción de unicidad a fin de que se conviertan en valores duplicados. ",
+      "Restricciones de Verificación: Los nuevos valores deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta. ",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 76
+  },
+  {
+    "texto": "Sentencia UPDATE => Restricciones de Integridad de Datos:\r\n",
+    "opciones": [
+      "Claves Primarias: Puedes actualizar una clave primaria de manera que se convierta en un valor duplicado.",
+      "Claves Foráneas: Los valores actualizados en una columna de clave foránea no deben seguir existiendo en la tabla referenciada, a menos que se actualicen las referencias en las tablas relacionadas. ",
+      "Restricciones de Unicidad: No puedes actualizar valores en una columna que tengan una restricción de unicidad a fin de que se conviertan en valores duplicados.",
+      "Restricciones de Verificación: Los nuevos valores deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 77
+  },
+  {
+    "texto": "Sentencia UPDATE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Primarias: Puedes actualizar una clave primaria de manera que se convierta en un valor duplicado.",
+      "Claves Foráneas: Los valores actualizados en una columna de clave foránea no deben seguir existiendo en la tabla referenciada, a menos que se actualicen las referencias en las tablas relacionadas.",
+      "Restricciones de Unicidad: No puedes actualizar valores en una columna que tengan una restricción de unicidad a fin de que se conviertan en valores duplicados.",
+      "Restricciones de Verificación: Los nuevos valores deben no cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 78
+  },
+  {
+    "texto": "Sentencia UPDATE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Tipo de Datos: Los nuevos valores deben coincidir con el tipo de datos de la columna. Por ejemplo, no puedes actualizar una columna de tipo entero con una cadena de caracteres. ",
+      "Restricciones de Valores Nulos: Si una columna está definida como NOT NULL, no puedes actualizar el valor de esa columna a NULL a menos que se cambie la definición de la columna para permitir valores nulos. ",
+      "Restricciones de Default: Si una columna tiene un valor predeterminado, actualizar la columna a un valor que no sea NULL no activará el valor predeterminado, pero si se pone en NULL y la columna permite valores nulos, el valor predeterminado puede aplicarse en inserciones futuras. ",
+      "Restricciones de Transacciones: Las operaciones de UPDATE se pueden agrupar en transacciones. Si una transacción falla, se pueden deshacer todos los cambios realizados durante esa transacción, manteniendo la consistencia de la base de datos.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 79
+  },
+  {
+    "texto": "Sentencia UPDATE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Restricciones de Vista: Si estás actualizando datos a través de una vista, la vista debe ser actualizable. Algunas vistas, especialmente aquellas que involucran uniones complejas o agregaciones, pueden no ser actualizables directamente.",
+      "Restricciones de Concurrencia: SQL Server aplica bloqueos para manejar la concurrencia y mantener la integridad de los datos durante las actualizaciones. Los bloqueos pueden afectar el rendimiento y la accesibilidad de los datos durante la operación de actualización.",
+      "Restricciones de Identidad: No puedes actualizar una columna de identidad (IDENTITY), ya que su valor es generado automáticamente por el sistema. ",
+      "Restricciones de Particionamiento: Si la tabla está particionada, cualquier actualización debe cumplir con las reglas de particionamiento definidas para que los datos permanezcan en la partición correcta.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 80
+  },
+  {
+    "texto": "Sentencia UPDATE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Primarias: Puedes actualizar una clave primaria de manera que se convierta en un valor duplicado.",
+      "Claves Foráneas: Los valores actualizados en una columna de clave foránea no deben seguir existiendo en la tabla referenciada, a menos que se actualicen las referencias en las tablas relacionadas.",
+      "Restricciones de Identidad: No puedes actualizar una columna de identidad (IDENTITY), ya que su valor es generado automáticamente por el sistema.",
+      "Restricciones de Particionamiento: Si la tabla está particionada, cualquier actualización debe cumplir con las reglas de particionamiento definidas para que los datos permanezcan en la partición correcta.",
+      "Mas de una respuesta es Correcta.",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 81
+  },
+  {
+    "texto": "Sentencia UPDATE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Primarias: Puedes actualizar una clave primaria de manera que se convierta en un valor duplicado.",
+      "Claves Foráneas: Los valores actualizados en una columna de clave foránea no deben seguir existiendo en la tabla referenciada, a menos que se actualicen las referencias en las tablas relacionadas.",
+      "Restricciones de Unicidad: Debes actualizar valores en una columna que tengan una restricción de unicidad a fin de que se conviertan en valores duplicados.",
+      "Restricciones de Verificación: Los nuevos valores no deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta. ",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta. "
+    ],
+    "correcta": 6,
+    "multiple": "tema",
+    "id": 82
+  },
+  {
+    "texto": "Sentencia UPDATE => Restricciones de Integridad de Datos:",
+    "opciones": [
+      "Claves Primarias: Puedes actualizar una clave primaria de manera que se convierta en un valor duplicado.",
+      "Claves Foráneas: Los valores actualizados en una columna de clave foránea no deben seguir existiendo en la tabla referenciada, a menos que se actualicen las referencias en las tablas relacionadas. ",
+      "Restricciones de Unicidad: Debes actualizar valores en una columna que tengan una restricción de unicidad a fin de que se conviertan en valores duplicados.",
+      "Restricciones de Verificación: Los nuevos valores deben cumplir con las condiciones definidas en las restricciones de verificación.",
+      "Mas de una respuesta es Correcta. ",
+      "Todas las respuestas anteriores son correcta.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 83
+  }
+  ],
+  "tema26": [
+      {
+    "texto": "Generar una vista llamada v_ProductosVendidos que devuelva los campos Nro_Producto y Descripción con todos los productos que se hayan vendido alguna vez de la tabla Ventas. \r\nLuego, utiliza la vista para seleccionar solo los productos cuya Descripción comience con la letra ‘ t ’. \r\n",
+    "opciones": [
+      "CREATE VIEW v_ProductosVendidos AS  SELECT DISTINCT Nro_Producto, Descripción  FROM Ventas;    SELECT *   FROM v_ProductosVendidos  WHERE Descripción LIKE 't%'; ",
+      "CREATE VIEW v_ProductosVendidos AS  SELECT Nro_Producto, Descripción  FROM Ventas  WHERE Descripción LIKE 't%'; ",
+      " CREATE VIEW v_ProductosVendidos AS  SELECT DISTINCT Nro_Producto, Descripción  FROM Ventas;     SELECT Nro_Producto, Descripción  FROM v_ProductosVendidos  WHERE LOWER(Descripción) = 't%'; ",
+      "CREATE VIEW v_ProductosVendidos AS  SELECT DISTINCT Nro_Producto, Descripción  FROM Ventas;    SELECT *   FROM v_ProductosVendidos  WHERE UPPER(Descripción) LIKE '%T'; "
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 67
+  },
+  {
+    "texto": "Crear una vista llamada v_ClientesActivos que devuelva los ID_Cliente, Nombre y Estado de todos los clientes cuyo estado sea 'Activo' de la tabla Clientes. \r\n",
+    "opciones": [
+      "CREATE VIEW v_ClientesActivos AS  SELECT ID_Cliente, Nombre, Estado  FROM Clientes  WHERE Estado = 'Activo';",
+      "CREATE VIEW v_ClientesActivos AS  SELECT ID_Cliente, Nombre, Estado  FROM Clientes  WHERE Estado LIKE '%Activo%'; ",
+      " CREATE VIEW ClientesActivos AS  SELECT ID_Cliente, Nombre, Estado  FROM Clientes  WHERE Estado = 'Activo'; ",
+      "CREATE VIEW v_ClientesActivos AS  SELECT DISTINCT ID_Cliente, Nombre, Estado  FROM Clientes  WHERE Estado = 'Inactivo'; "
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 68
+  },
+  {
+    "texto": "Se requiere crear una vista llamada v_EmpleadosDepartamentos que devuelva el ID_Empleado, Nombre_Empleado, y Nombre_Departamento de los empleados, uniendo las tablas Empleados y Departamentos en base al campo departamento_id. Renombrando el campo Nombre como Nombre_Empleado para mayor claridad.\r\n",
+    "opciones": [
+      "CREATE VIEW v_EmpleadosDepartamentos AS  SELECT ID_Empleado, Nombre AS Nombre_Empleado, Nombre_Departamento  FROM Empleados  LEFT JOIN Departamentos ON Empleados.departamento_id = Departamentos.departamento_id; ",
+      "CREATE VIEW v_EmpleadosDepartamentos AS  SELECT ID_Empleado, Nombre AS Nombre_Empleado, Nombre_Departamento  FROM Empleados  JOIN Departamentos ON Empleados.departamento_id = Departamentos.departamento_id; ",
+      "CREATE VIEW v_EmpleadosDepartamentos AS  SELECT ID_Empleado, Nombre_Empleado, Nombre_Departamento  FROM Empleados  JOIN Departamentos ON Empleados.departamento_id = Departamentos.departamento_id; ",
+      "CREATE VIEW v_EmpleadosDepartamentos AS  SELECT DISTINCT ID_Empleado, Nombre_Empleado, Nombre_Departamento  FROM Departamentos  JOIN Empleados ON Departamentos.departamento_id = Empleados.departamento_id; "
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 69
+  },
+  {
+    "texto": "Crear una vista llamada v_VentasMensuales que devuelva el ID_Venta, Fecha_Venta, y Monto_Total de todas las ventas realizadas en el mes de enero del año 2024. La tabla se llama Ventas y contiene las columnas ID_Venta, Fecha_Venta, y Monto_Total.",
+    "opciones": [
+      " CREATE VIEW v_VentasMensuales AS  SELECT ID_Venta, Fecha_Venta, Monto_Total  FROM Ventas  WHERE Fecha_Venta >= '2024-01-01' AND Fecha_Venta <= '2024-01-31'; ",
+      "CREATE VIEW v_VentasMensuales AS  SELECT ID_Venta, Fecha_Venta, Monto_Total  FROM Ventas  WHERE Fecha_Venta LIKE '01%2024'; ",
+      "CREATE VIEW v_VentasMensuales AS  SELECT ID_Venta, Fecha_Venta, Monto_Total  FROM Ventas  WHERE Fecha_Venta BETWEEN '2024-01-01' AND '2024-01-31'; ",
+      "CREATE VIEW v_VentasMensuales AS  SELECT ID_Venta, Fecha_Venta, Monto_Total  FROM Ventas  WHERE MONTH(Fecha_Venta) = 1 AND YEAR(Fecha_Venta) = 2024; "
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 70
+  },
+  {
+    "texto": "Crear una vista llamada v_InventarioBajo que devuelva el ID_Producto, Nombre_Producto, y Cantidad_Disponible de todos los productos cuya cantidad sea menor a 10 en la tabla Productos. La tabla contiene las columnas ID_Producto, Nombre_Producto, y Cantidad_Disponible. \r\n",
+    "opciones": [
+      "CREATE VIEW v_InventarioBajo AS  SELECT ID_Producto, Nombre_Producto, Cantidad_Disponible  FROM Productos  WHERE Cantidad_Disponible <= 10; ",
+      "CREATE VIEW v_InventarioBajo AS  SELECT ID_Producto, Nombre_Producto, Cantidad_Disponible  FROM Productos  WHERE Cantidad_Disponible < 10; ",
+      "CREATE VIEW v_InventarioBajo AS  SELECT ID_Producto, Nombre_Producto, Cantidad_Disponible  FROM Productos  WHERE Cantidad_Disponible = 10; ",
+      "CREATE VIEW v_InventarioBajo AS  SELECT ID_Producto, Nombre_Producto, Cantidad_Disponible  FROM Productos  WHERE Cantidad_Disponible > 10; "
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 71
+  },
+  {
+    "texto": "crear una vista llamada v_EmpleadosAntiguos que devuelva el ID_Empleado, Nombre_Empleado, y Fecha_Contratacion de todos los empleados que fueron contratados antes del 1 de enero de 2015. La tabla Empleados tiene las columnas ID_Empleado, Nombre_Empleado, y Fecha_Contratacion. \r\n",
+    "opciones": [
+      "CREATE VIEW v_EmpleadosAntiguos AS  SELECT ID_Empleado, Nombre_Empleado, Fecha_Contratacion  FROM Empleados  WHERE Fecha_Contratacion <= '2015-01-01'; ",
+      "CREATE VIEW v_EmpleadosAntiguos AS  SELECT ID_Empleado, Nombre_Empleado, Fecha_Contratacion  FROM Empleados  WHERE Fecha_Contratacion > '2015-01-01'; ",
+      "CREATE VIEW v_EmpleadosAntiguos AS  SELECT ID_Empleado, Nombre_Empleado, Fecha_Contratacion  FROM Empleados  WHERE Fecha_Contratacion < '2015-01-01'; ",
+      " CREATE VIEW v_EmpleadosAntiguos AS  SELECT DISTINCT ID_Empleado, Nombre_Empleado, Fecha_Contratacion  FROM Empleados  WHERE Fecha_Contratacion = '2015-01-01'; "
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 72
+  },
+  {
+    "texto": "crear una vista llamada v_ProductosMasVendidos que muestre el ID_Producto, Nombre_Producto, y el Total_Vendido (la suma de la cantidad de ventas por producto) para los productos que hayan sido vendidos más de 100 veces. \r\nLa tabla Ventas contiene las columnas ID_Producto y Cantidad_Vendida, mientras que la tabla Productos contiene las columnas ID_Producto y Nombre_Producto. \r\n",
+    "opciones": [
+      "CREATE VIEW v_ProductosMasVendidos AS  SELECT P.ID_Producto, P.Nombre_Producto, COUNT(V.ID_Producto) AS Total_Vendido  FROM Productos P  INNER JOIN Ventas V ON P.ID_Producto = V.ID_Producto  GROUP BY P.ID_Producto, P.Nombre_Producto  WHERE COUNT(V.ID_Producto) > 100; ",
+      "CREATE VIEW v_ProductosMasVendidos AS  SELECT P.ID_Producto, P.Nombre_Producto, SUM(V.Cantidad_Vendida) AS Total_Vendido  FROM Productos P  JOIN Ventas V ON P.ID_Producto = V.ID_Producto  GROUP BY P.ID_Producto  HAVING Total_Vendido > 100; ",
+      "CREATE VIEW v_ProductosMasVendidos AS  SELECT P.ID_Producto, P.Nombre_Producto, SUM(V.Cantidad_Vendida) AS Total_Vendido  FROM Productos P  LEFT JOIN Ventas V ON P.ID_Producto = V.ID_Producto  GROUP BY P.ID_Producto, P.Nombre_Producto  WHERE SUM(V.Cantidad_Vendida) > 100; ",
+      "CREATE VIEW v_ProductosMasVendidos AS  SELECT P.ID_Producto, P.Nombre_Producto, SUM(V.Cantidad_Vendida) AS Total_Vendido  FROM Productos P  INNER JOIN Ventas V ON P.ID_Producto = V.ID_Producto  GROUP BY P.ID_Producto, P.Nombre_Producto  HAVING SUM(V.Cantidad_Vendida) > 100;"
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 73
+  }
+  ],
+  "tema27": [
+      {
+    "texto": "Los Indices: AGRUPADO - CLUSTER",
+    "opciones": [
+      "Los registros con el mismo valor de campo se agrupan juntos.",
+      "El tamaño medio de un índice agrupado es aproximadamente el 5% del tamaño de la tabla.",
+      "Un índice clustered define el orden físico de los datos en la tabla. ",
+      "Los datos en la tabla se almacenan en el disco en el mismo orden que el índice. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 1
+  },
+  {
+    "texto": "Los Indices: AGRUPADO - CLUSTER",
+    "opciones": [
+      "Los registros con distinto valor de campo se agrupan juntos. ",
+      "El tamaño medio de un índice agrupado es aproximadamente el 10% del tamaño de la tabla mas grande de la Base.",
+      "Un índice clustered define el orden en el cual los resultados de las consultas son procesadas con los datos en la tabla. ",
+      "Los datos en la tabla se almacenan en el disco en el orden estrictamente inverso que el índice.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 2
+  },
+  {
+    "texto": "Los Indices: AGRUPADO - CLUSTER",
+    "opciones": [
+      "Los registros con el mismo valor de campo se agrupan juntos.",
+      "El tamaño medio de un índice agrupado es aproximadamente el 10% del tamaño de la tabla mas grande de la Base.",
+      "Un índice clustered define el orden en el cual los resultados de las consultas son procesadas con los datos en la tabla.",
+      "Los datos en la tabla se almacenan en el disco en el orden estrictamente inverso que el índice.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 3
+  },
+  {
+    "texto": "Los Indices: AGRUPADO - CLUSTER",
+    "opciones": [
+      "Los registros con distinto valor de campo se agrupan juntos.",
+      "El tamaño medio de un índice agrupado es aproximadamente el 10% del tamaño de la tabla mas grande de la Base.",
+      "Un índice clustered define el orden en el cual los resultados de las consultas son procesadas con los datos en la tabla.",
+      "Los datos en la tabla se almacenan en el disco en el mismo orden que el índice.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 4
+  },
+  {
+    "texto": "Los Indices: AGRUPADO - CLUSTER",
+    "opciones": [
+      "Los registros con distinto valor de campo se agrupan juntos",
+      "El tamaño medio de un índice agrupado es aproximadamente el 5% del tamaño de la tabla.",
+      "Un índice clustered define el orden en el cual los resultados de las consultas son procesadas con los datos en la tabla. ",
+      "Los datos en la tabla se almacenan en el disco en el orden estrictamente inverso que el índice. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 5
+  }
+  ],
+  "tema28": [
+      {
+    "texto": "Los Indices: NO AGRUPADO - NO CLUSTER",
+    "opciones": [
+      "Los datos se almacenan en un lugar diferente al del índice.",
+      "Los punteros indican el lugar de almacenamiento de los elementos indizados en la tabla.",
+      "Se emplea cuando se realizan distintos tipos de búsquedas frecuentemente, con campos en los que los datos son únicos.",
+      "Una tabla puede tener hasta 249 índices no agrupados.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 16
+  },
+  {
+    "texto": "Los Indices: NO AGRUPADO - NO CLUSTER",
+    "opciones": [
+      "Los datos se almacenan en el mismo lugar al del índice.",
+      "Los punteros indican el lugar del disco donde los elementos indizados hacen referencia a las tabla de la Base. ",
+      "Se emplea cuando se realizan el mismo tipos de búsquedas de forma frecuentemente, con campos en los que los datos no son únicos. ",
+      "Una tabla puede tener hasta 256 índices no agrupados.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 17
+  },
+  {
+    "texto": "Los Indices: NO AGRUPADO - NO CLUSTER",
+    "opciones": [
+      "Los datos se almacenan en un lugar diferente al del índice. ",
+      "Los punteros indican el lugar del disco donde los elementos indizados se almacenan junto con el índice.",
+      "Se emplea únicamente cuando los campos contienen datos únicos y no se repiten.",
+      "Una tabla puede tener menos de 256 índices no agrupados.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 18
+  },
+  {
+    "texto": "Los Indices: NO AGRUPADO - NO CLUSTER",
+    "opciones": [
+      "Los datos se almacenan en el mismo lugar al del índice. ",
+      "Los punteros indican el lugar del disco donde los elementos indizados hacen referencia a las tabla de la Base.",
+      "Se emplea cuando se realizan distintos tipos de búsquedas frecuentemente, con campos en los que los datos son únicos.",
+      "Una tabla puede tener hasta 256 índices no agrupados. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 19
+  }
+  ],
+  "tema29": [
+      {
+    "texto": "RESTRICCIONES:\r\n ¿Cuál de las siguientes afirmaciones es correcta sobre las restricciones de la tabla Empleados?\r\n \r\n CREATE TABLE Empleados (\r\n    empleado_id INT PRIMARY KEY,\r\n    nombre VARCHAR(50) NOT NULL,\r\n    salario DECIMAL(10, 2),\r\n    departamento_id INT,\r\n    CONSTRAINT fk_departamento FOREIGN KEY (departamento_id) REFERENCES Departamentos(departamento_id),\r\n    CONSTRAINT chk_salario CHECK (salario >= 0)\r\n);",
+    "opciones": [
+      "La columna salario no permite valores nulos debido a la restricción CHECK.",
+      "La restricción PRIMARY KEY en la columna empleado_id asegura que este campo sea único y no nulo.",
+      "La restricción FOREIGN KEY asegura que el campo departamento_id en la tabla Empleados siempre tenga un valor.",
+      "La restricción CHECK en la columna salario permite que el salario tenga valores negativos."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 6
+  },
+  {
+    "texto": "RESTRICCIONES:\r\n¿Cuál de las siguientes afirmaciones es falsa sobre las restricciones en la tabla Productos?\r\n\r\nCREATE TABLE Productos (\r\n    producto_id INT PRIMARY KEY,\r\n    nombre VARCHAR(50) NOT NULL,\r\n    precio DECIMAL(10, 2),\r\n    stock INT,\r\n    categoria_id INT,\r\n    CONSTRAINT fk_categoria FOREIGN KEY (categoria_id) REFERENCES Categorias(categoria_id),\r\n    CONSTRAINT chk_precio CHECK (precio > 0)\r\n);\r\n",
+    "opciones": [
+      "La restricción PRIMARY KEY en la columna producto_id asegura que este campo sea único y no nulo.",
+      "La restricción CHECK en la columna precio permite valores de cero y positivos.",
+      "La restricción FOREIGN KEY en categoria_id garantiza que cada producto pertenezca a una categoría existente.",
+      "La columna nombre no permite valores nulos debido a la restricción NOT NULL."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 7
+  },
+  {
+    "texto": "RESTRICCIONES:\r\n¿Cuál de las siguientes afirmaciones sobre las restricciones en la tabla Empleados es incorrecta?\r\n\r\nCREATE TABLE Empleados (\r\n    empleado_id INT PRIMARY KEY,\r\n    nombre VARCHAR(50) NOT NULL,\r\n    salario DECIMAL(10, 2) CHECK (salario >= 1000 AND salario <= 50000),\r\n    fecha_contratacion DATE NOT NULL,\r\n    departamento_id INT,\r\n    CONSTRAINT fk_departamento FOREIGN KEY (departamento_id) REFERENCES Departamentos(departamento_id)\r\n);",
+    "opciones": [
+      "La columna salario permite solo valores entre 1000 y 50000 gracias a la restricción CHECK.",
+      "La columna fecha_contratacion no puede tener valores nulos debido a la restricción NOT NULL.",
+      "La restricción FOREIGN KEY en la columna departamento_id asegura que los empleados pertenezcan a un departamento válido.",
+      "La columna nombre puede aceptar valores nulos si el campo es opcional. "
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 8
+  },
+  {
+    "texto": "RESTRICCIONES:\r\n¿Cuál de las siguientes afirmaciones es falsa?\r\n\r\nCREATE TABLE Productos (\r\n    producto_id INT PRIMARY KEY,\r\n    nombre VARCHAR(100) NOT NULL,\r\n    precio DECIMAL(10, 2) CHECK (precio > 0),\r\n    stock INT CHECK (stock >= 0),\r\n    categoria_id INT NOT NULL,\r\n    CONSTRAINT fk_categoria FOREIGN KEY (categoria_id) REFERENCES Categorias(categoria_id)\r\n);",
+    "opciones": [
+      "La columna nombre no puede contener valores nulos debido a la restricción NOT NULL.",
+      "La restricción CHECK en la columna precio asegura que no se puedan ingresar valores negativos.",
+      "La columna stock solo acepta valores mayores o iguales a cero gracias a la restricción CHECK.",
+      "La columna categoria_id puede aceptar valores nulos, ya que es una clave foránea (FOREIGN KEY)."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 9
+  }
+  ],
+  "tema30": [
+      {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de sentencias que operan como una unidad lógica.",
+      "Tiene un nombre, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server no pueden ser modificadas, las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre los datos.",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 10
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta. "
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 11
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de sentencias que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 12
+  },
+  {
+    "texto": "Que es una funcion ?",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "Tiene un nombre, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 13
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones del sistema en SQL Server no pueden ser modificadas, pero las funciones definidas por el usuario sí pueden ser alteradas con ALTER FUNCTION.",
+      "Permiten realizar operaciones específicas sobre las relaciones de las tablas. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 14
+  },
+  {
+    "texto": "Que es una funcion ?\r\n",
+    "opciones": [
+      "Es un conjunto de Relaciones entre Tablas que operan como una unidad lógica. ",
+      "No tiene un nombre ya que es invocada por el acceso a la tabla de referencia, retorna un valor de salida y opcionalmente acepta parámetros de entrada. ",
+      "Las funciones de SQL Server pueden ser modificadas como tambien las funciones definidas por el usuario si. ",
+      "Permiten realizar operaciones específicas sobre los datos. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 15
+  }
+  ],
+  "tema31": [
+      {
+    "texto": "Existe una tabla llamada Clientes que contiene millones de registros, y frecuentemente ejecutas consultas que filtran por la columna Email. Quieres mejorar el rendimiento de estas consultas. \r\n¿Cuál de las siguientes sentencias es la mejor opción para crear un índice que mejore las consultas por la columna Email?\r\n",
+    "opciones": [
+      "CREATE INDEX idx_email ON Clientes (Email);",
+      "CREATE INDEX idx_email ON Clientes (Email DESC);",
+      "CREATE UNIQUE INDEX idx_email ON Clientes (Email);",
+      "CREATE INDEX idx_cliente_email ON Clientes (cliente_id, Email);"
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 20
+  },
+  {
+    "texto": "Existe una tabla llamada Ventas que contiene las columnas ID_Venta, Fecha_Venta, Monto_Total, y Cliente_ID. Las consultas que más se ejecutan filtran por Fecha_Venta y ordenan los resultados por Monto_Total. \r\n¿Cuál de las siguientes sentencias es la mejor opción para mejorar el rendimiento de estas consultas?",
+    "opciones": [
+      "CREATE INDEX idx_fecha ON Ventas (Fecha_Venta);",
+      "CREATE INDEX idx_fecha_monto ON Ventas (Fecha_Venta, Monto_Total);",
+      "CREATE INDEX idx_monto ON Ventas (Monto_Total);",
+      "CREATE UNIQUE INDEX idx_fecha ON Ventas (Fecha_Venta);"
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 21
+  }
+  ],
+  "tema32": [
+       {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Facilitan la obtención de información de una tabla.",
+      "Posibilita el acceso directo y rápido haciendo más eficiente las búsquedas.",
+      "Sin índice, SQL Server debe recorrer secuencialmente toda la tabla para encontrar un registro.",
+      "Acelera la recuperación de información.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 22
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Sin índice, SQL Server debe recorrer secuencialmente toda la tabla para encontrar un registro.",
+      "Acelera la recuperación de información.",
+      "Optimiza el acceso a los datos.",
+      "Mejora el rendimiento acelerando las consultas y otras operaciones.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 23
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Una tabla se indexa por una relacion o varias.",
+      "Posibilita el acceso directo y rápido haciendo vistas para las búsquedas. ",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro. ",
+      "Mejora el rendimiento acelerando las consultas y otras operaciones. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 24
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Una tabla se indexa por una relacion o varias.",
+      "Posibilita el acceso directo y rápido haciendo vistas para las búsquedas. ",
+      "Mejora el rendimiento acelerando las consultas y otras operaciones.",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 25
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Posibilita el acceso directo y rápido haciendo más eficiente las búsquedas.",
+      "Una tabla se indexa por una relacion o varias.",
+      "Posibilita el acceso directo y rápido haciendo vistas para las búsquedas.",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 26
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Facilitan la obtención de información de un atributo.",
+      "Una tabla se indexa por una relacion o varias. ",
+      "Posibilita el acceso directo y rápido haciendo vistas para las búsquedas. ",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 27
+  },
+  {
+    "texto": "Los Indices:",
+    "opciones": [
+      "Facilitan la obtención de información de un atributo.",
+      "Una tabla se indexa por una relacion o varias. ",
+      "Sin índice, SQL Server debe recorrer secuencialmente toda la tabla para encontrar un registro.",
+      "Con índice, SQL Server recorre secuencialmente toda la tabla para encontrar un registro.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 28
+  },
+  {
+    "texto": "Los Indices: ",
+    "opciones": [
+      "La desventaja es que consume espacio en disco y genera costo de mantenimiento (tiempo y recursos).",
+      "Los índices más adecuados son aquellos creados con campos que contienen valores únicos.",
+      "Es importante crear un índice, con campos por los cuales se realizan búsqueda con frecuencia: claves primarias, claves externas o campos que combinan tablas.",
+      "No se recomienda crear índices por campos que no se usan con frecuencia en consultas o no contienen valores únicos. ",
+      "Todas las respuestas son correctas. ",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 29
+  },
+  {
+    "texto": "Los Indices: ",
+    "opciones": [
+      "La Ventaja es que consume espacio en disco y pero no genera costo de mantenimiento (tiempo y recursos).",
+      "Los índices más adecuados son aquellos creados con campos que contienen valores duplicados. ",
+      "Es importante crear un índice, con campos por los cuales se realizan búsqueda con poca frecuencia.",
+      "Recorriendo las tablas; comenzando por el valor del indice mas grande y extrayendo los registros que cumplen las condiciones de la consulta.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuesta es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 30
+  }
+  ],
+  "tema33": [
+      {
+    "texto": "Vista:",
+    "opciones": [
+      "Es una consulta que se presenta como una tabla (virtual) a partir de un conjunto de tablas en una base de datos relacional.",
+      "Tienen la misma estructura que una tabla: filas y columnas.",
+      "Almacena de las tablas la definición, no los datos.",
+      "Es una estructura permanente en la base de datos que almacena una consulta. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 31
+  },
+  {
+    "texto": "Vista",
+    "opciones": [
+      "Es una consulta que se presenta como una tabla (temporal) a partir de un conjunto de tablas en una base de datos relacional.",
+      "Tienen una estructura similar que una tabla: respecto de las columnas pero no de las filas. ",
+      "Almacena de las tablas los datos al momento de ejecutarse.",
+      "Es una estructura en la base de datos que almacena una datos de las tablas en la Base.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 32
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Tienen una estructura similar que una tabla: respecto de las columnas pero no de las filas.",
+      "Almacena de las tablas los datos al momento de ejecutarse. ",
+      "Es una alternativa para mostrar datos de varias tablas. ",
+      "Es una estructura en la base de datos que almacena una datos de las tablas en la Base. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 33
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Los datos accesibles a través de la vista no están almacenados en la base de datos como un objeto.",
+      "Almacena una consulta como un objeto para utilizarse posteriormente.",
+      "Las tablas consultadas en una vista se llaman tablas base.",
+      "Se puede dar un nombre a cualquier consulta y almacenarla como una vista.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 34
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Es una consulta que se presenta como una tabla (temporal) a partir de un conjunto de tablas en una base de datos relacional.",
+      "Tienen una estructura similar que una tabla: respecto de las columnas pero no de las filas.",
+      "Las tablas consultadas en una vista se llaman tablas base.",
+      "Es una estructura en la base de datos que almacena una datos de las tablas en la Base. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 35
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Es una alternativa para mostrar datos de varias tablas.",
+      "Los datos accesibles a través de la vista no están almacenados en la base de datos como un objeto.",
+      "Almacena una consulta como un objeto para utilizarse posteriormente.",
+      "Se puede dar un nombre a cualquier consulta y almacenarla como una vista.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 36
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Es una consulta que se presenta como una tabla (temporal) a partir de un conjunto de tablas en una base de datos relacional.",
+      "Tienen una estructura similar que una tabla: respecto de las columnas pero no de las filas.",
+      "Los datos accesibles a través de la vista no están almacenados en la base de datos como un objeto.",
+      "Es una estructura en la base de datos que almacena una datos de las tablas en la Base.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 37
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Es una consulta que se presenta como una tabla (temporal) a partir de un conjunto de tablas en una base de datos relacional.",
+      "Tienen una estructura similar que una tabla: respecto de las columnas pero no de las filas.",
+      "Se puede dar un nombre a cualquier consulta y almacenarla como una vista.",
+      "Es una estructura en la base de datos que almacena una datos de las tablas en la Base. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 38
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Es como una tabla virtual que almacena los datos.",
+      "Los datos accesibles a través de la vista están almacenados en la base de datos como un objeto. ",
+      "Almacena una consulta como un tabla para utilizarse posteriormente.",
+      "Las tablas consultadas en una vista se llaman tablas virtuales. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 39
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Permiten el acceso a algunos datos y manteniendo oculto el resto de la información que no se incluye en la vista.",
+      "Permiten operar con los datos de una vista como si se tratara de una tabla, pudiendo modificar tales datos.",
+      "Se pueden dar al usuario permisos para que solamente pueda acceder a los datos a través de vistas. ",
+      "No es necesario concederle permisos para acceder a ciertos campos, así se protegen las tablas base de cambios en su estructura.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 4,
+    "multiple": "tema",
+    "id": 40
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Permiten el acceso a todos los datos y dejando disponibles los datos que no intervienen en el resto de la información de la consulta que genera la vista.",
+      "Permiten operar con los datos de una vista como si se tratara de una tabla, sin poder modificar tales datos.",
+      "No se pueden gestionar permisos a un usuario para que solamente pueda acceder a los datos a través de vistas.",
+      "Es necesario concederle permisos para acceder a ciertos campos, así se protegen las tablas base de cambios en su estructura.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 5,
+    "multiple": "tema",
+    "id": 41
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Permiten el acceso a todos los datos y dejando disponibles los datos que no intervienen en el resto de la información de la consulta que genera la vista.",
+      "Permiten operar con los datos de una vista como si se tratara de una tabla, sin poder modificar tales datos.",
+      "No se pueden gestionar permisos a un usuario para que solamente pueda acceder a los datos a través de vistas.",
+      "No es necesario concederle permisos para acceder a ciertos campos, así se protegen las tablas base de cambios en su estructura.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 3,
+    "multiple": "tema",
+    "id": 42
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Permiten el acceso a todos los datos y dejando disponibles los datos que no intervienen en el resto de la información de la consulta que genera la vista.",
+      "Permiten operar con los datos de una vista como si se tratara de una tabla, sin poder modificar tales datos. ",
+      "Se pueden dar al usuario permisos para que solamente pueda acceder a los datos a través de vistas.",
+      "Es necesario concederle permisos para acceder a ciertos campos, así se protegen las tablas base de cambios en su estructura. ",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 2,
+    "multiple": "tema",
+    "id": 43
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Permiten el acceso a todos los datos y dejando disponibles los datos que no intervienen en el resto de la información de la consulta que genera la vista.",
+      "Permiten operar con los datos de una vista como si se tratara de una tabla, pudiendo modificar tales datos.",
+      "No se pueden gestionar permisos a un usuario para que solamente pueda acceder a los datos a través de vistas. ",
+      "Es necesario concederle permisos para acceder a ciertos campos, así se protegen las tablas base de cambios en su estructura.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 1,
+    "multiple": "tema",
+    "id": 44
+  },
+  {
+    "texto": "Vista:",
+    "opciones": [
+      "Permiten el acceso a algunos datos y manteniendo oculto el resto de la información que no se incluye en la vista.",
+      "Permiten operar con los datos de una vista como si se tratara de una tabla, sin poder modificar tales datos. ",
+      "No se pueden gestionar permisos a un usuario para que solamente pueda acceder a los datos a través de vistas. ",
+      "Es necesario concederle permisos para acceder a ciertos campos, así se protegen las tablas base de cambios en su estructura.",
+      "Todas las respuestas son correctas.",
+      "Ninguna de las respuestas es correcta."
+    ],
+    "correcta": 0,
+    "multiple": "tema",
+    "id": 45
+  }
+  ],
+  "tema34": [
+       {
+    "texto": "Se tienen las siguientes tablas.\r\n¿Cuál de las siguientes consultas SQL devuelve correctamente los nombres de los clientes y las fechas de sus pedidos?\r\n\r\n\r\nClientes:\r\nID_Cliente (INT, PRIMARY KEY)\r\nNombre (VARCHAR)\r\n\r\nPedidos:\r\n\r\nID_Pedido (INT, PRIMARY KEY)\r\nID_Cliente (INT, FOREIGN KEY referenciando Clientes)\r\nFecha_Pedido (DATE)",
+    "opciones": [
+      "SELECT Nombre, Fecha_Pedido FROM Clientes INNER JOIN Pedidos ON Clientes.ID_Cliente = Pedidos.ID_Pedido;",
+      "SELECT Clientes.Nombre, Pedidos.Fecha_Pedido FROM Clientes INNER JOIN Pedidos ON Clientes.ID_Cliente = Pedidos.ID_Cliente;",
+      "SELECT c.Nombre, p.Fecha_Pedido FROM Clientes c JOIN Pedidos p ON c.ID_Cliente = p.ID_Pedido;",
+      "SELECT c.Nombre, p.Fecha_Pedido FROM Clientes c LEFT JOIN Pedidos p ON c.ID_Cliente = p.ID_Cliente;"
+    ],
+    "correcta": 1,
+    "multiple": "combinacion",
+    "id": 1
+  },
+  {
+    "texto": "¿Cuál de las siguientes consultas SQL devuelve correctamente los nombres de los empleados y el nombre de sus departamentos?\r\nDadas las siguientes tablas:\r\n\r\nEmpleados:\r\n\r\nID_Empleado (INT, PRIMARY KEY)\r\nNombre_Empleado (VARCHAR)\r\nDepartamentos:\r\n\r\nID_Departamento (INT, PRIMARY KEY)\r\nNombre_Departamento (VARCHAR)\r\nAsignaciones:\r\n\r\nID_Empleado (INT, FOREIGN KEY referenciando Empleados)\r\nID_Departamento (INT, FOREIGN KEY referenciando Departamentos)\r\n",
+    "opciones": [
+      "SELECT e.Nombre_Empleado, d.Nombre_Departamento FROM Empleados e JOIN Departamentos d ON e.ID_Empleado = d.ID_Departamento;",
+      "SELECT e.Nombre_Empleado, d.Nombre_Departamento FROM Empleados e INNER JOIN Asignaciones a ON e.ID_Empleado = a.ID_Empleado INNER JOIN Departamentos d ON a.ID_Departamento = d.ID_Departamento;",
+      "SELECT Nombre_Empleado, Nombre_Departamento FROM Asignaciones a JOIN Empleados e ON a.ID_Departamento = e.ID_Empleado JOIN Departamentos d ON a.ID_Empleado = d.ID_Departamento;",
+      "SELECT c.Nombre_Cliente, p.Fecha_Pedido FROM Clientes c INNER JOIN Pedidos p ON c.ID_Cliente = p.ID_Pedido;"
+    ],
+    "correcta": 1,
+    "multiple": "combinacion",
+    "id": 2
+  },
+  {
+    "texto": "¿Cuál de las siguientes consultas SQL devuelve correctamente los nombres de los estudiantes y el nombre de los cursos en los que están inscritos?\r\nDadas las siguientes tablas:\r\n\r\nEstudiantes:\r\n\r\nID_Estudiante (INT, PRIMARY KEY)\r\nNombre_Estudiante (VARCHAR)\r\nCursos:\r\n\r\nID_Curso (INT, PRIMARY KEY)\r\nNombre_Curso (VARCHAR)\r\nInscripciones:\r\n\r\nID_Estudiante (INT, FOREIGN KEY referenciando Estudiantes)\r\nID_Curso (INT, FOREIGN KEY referenciando Cursos)\r\n",
+    "opciones": [
+      "SELECT e.Nombre_Estudiante, c.Nombre_Curso FROM Estudiantes e JOIN Inscripciones i ON e.ID_Estudiante = i.ID_Curso JOIN Cursos c ON i.ID_Estudiante = c.ID_Curso;",
+      "SELECT e.Nombre_Estudiante, c.Nombre_Curso FROM Estudiantes e JOIN Cursos c ON e.ID_Estudiante = c.ID_Curso;",
+      "SELECT e.Nombre_Estudiante, c.Nombre_Curso FROM Estudiantes e INNER JOIN Inscripciones i ON e.ID_Estudiante = i.ID_Estudiante INNER JOIN Cursos c ON i.ID_Curso = c.ID_Curso;",
+      "SELECT Nombre_Estudiante, Nombre_Curso FROM Inscripciones i JOIN Estudiantes e ON i.ID_Curso = e.ID_Estudiante JOIN Cursos c ON i.ID_Estudiante = c.ID_Curso;"
+    ],
+    "correcta": 2,
+    "multiple": "combinacion",
+    "id": 3
+  },
+  {
+    "texto": "¿Qué resultado devuelve la siguiente consulta SQL?\r\n\r\n",
+    "opciones": [
+      "Devuelve todas las ciudades, incluyendo los duplicados.",
+      "Devuelve las ciudades únicas, eliminando los duplicados.",
+      "Devuelve todas las ciudades que aparecen más de una vez en la tabla.",
+      "Devuelve solo las ciudades que están asociadas con más de un cliente."
+    ],
+    "correcta": 1,
+    "multiple": "combinacion",
+    "id": 4
+  },
+  {
+    "texto": "¿Qué devuelve la siguiente consulta SQL?",
+    "opciones": [
+      "Devuelve los primeros 3 empleados con el salario más bajo.",
+      "Devuelve todos los empleados con el salario más alto.",
+      "Devuelve los 3 empleados con el salario más alto.",
+      "Devuelve los empleados con el salario más alto, sin limitar el número de resultados."
+    ],
+    "correcta": 2,
+    "multiple": "combinacion",
+    "id": 5
+  }
+  ],
+  "tema35": [
+      {
+    "texto": "En base a la consulta SQL, determinar que enunciado dio origen a la consulta siguiente:",
+    "opciones": [
+      "Da la cantidad del número de fechas distintas, el número de métodos distintos utilizados, y la fecha más reciente de solicitudes realizadas por cada dirección IP en la tabla Page que tiene coincidencias en la tabla Request.",
+      "Obtener el número de fechas distintas, el número de métodos distintos utilizados, y la fecha más reciente de solicitudes realizadas por cada dirección IP en la tabla Page que tiene coincidencias en la tabla Request.",
+      "Obtener la lista de todas las solicitudes realizadas por cada dirección IP, incluyendo la fecha de cada solicitud y el tipo de método utilizado.",
+      "Extraer la dirección IP y la lista completa de fechas y métodos utilizados en cada solicitud para cada dirección IP."
+    ],
+    "correcta": 1,
+    "multiple": "inversa",
+    "id": 1
+  },
+  {
+    "texto": "En base a la consulta SQL, determinar que enunciado dio origen a la consulta siguiente:",
+    "opciones": [
+      "Seleccionar todos los registros de la tabla Ambiente que han recibido solicitudes en los últimos 7 días.",
+      "Obtener todos los registros de la tabla Ambiente que tienen solicitudes asociadas independientemente de la fecha.",
+      "Obtener todos los registros de la tabla Ambiente que no están asociados con ningún ambiente en el que no haya recibido solicitudes en los últimos 7 días.",
+      "Seleccionar todos los registros de la tabla Ambiente que tienen al menos una solicitud en el último mes."
+    ],
+    "correcta": 2,
+    "multiple": "inversa",
+    "id": 2
+  },
+  {
+    "texto": "En base a la consulta SQL, determinar que enunciado dio origen a la consulta siguiente:",
+    "opciones": [
+      "Seleccionar todas las solicitudes realizadas en cualquier horario que tienen acceso a ambientes con la descripción 'Desarrollo'.",
+      "Obtener la cantidad de solicitudes realizadas entre las 00:00 y las 04:00 de cada fecha, excluyendo aquellas direcciones IP que tienen acceso a ambientes con la descripción 'Desarrollo', y mostrando solo las fechas con 10 o más solicitudes.",
+      "Contar todas las solicitudes realizadas entre las 00:00 y las 04:00 de cualquier fecha, sin importar la descripción del ambiente.",
+      "Obtener el número total de solicitudes realizadas durante todo el día que están asociadas con ambientes de 'Desarrollo'."
+    ],
+    "correcta": 1,
+    "multiple": "inversa",
+    "id": 3
+  },
+  {
+    "texto": "En base a la consulta SQL, determinar que enunciado dio origen a la consulta siguiente:",
+    "opciones": [
+      "Obtener la lista de páginas web que comienzan con 'www', junto con la descripción del ambiente y la fecha más reciente de solicitudes, para aquellas páginas que han recibido al menos 7 solicitudes distintas en los últimos 7 días.",
+      "Seleccionar todas las páginas web y sus descripciones, junto con el total de solicitudes realizadas en el último mes.",
+      "Obtener el conteo total de todas las solicitudes realizadas para cada página web, sin importar el ambiente ni el periodo de tiempo",
+      "Seleccionar las páginas web que no tienen solicitudes en los últimos 7 días y mostrar sus descripciones."
+    ],
+    "correcta": 0,
+    "multiple": "inversa",
+    "id": 4
+  },
+  {
+    "texto": "En base a la consulta SQL, determinar que enunciado dio origen a la consulta siguiente:",
+    "opciones": [
+      "Seleccionar todas las páginas web y sus descripciones que han recibido al menos 7 solicitudes en los últimos 7 días.",
+      "Obtener la lista de páginas web que comienzan con 'ftp', junto con la descripción del ambiente y la fecha más reciente de solicitudes por dirección IP, estableciendo '01/01/1900' si no hay solicitudes, y excluyendo aquellas IP que han tenido al menos 7 solicitudes en los últimos 7 días.",
+      "Obtener la lista de todas las páginas web, sus descripciones y la fecha de la primera solicitud registrada para cada IP.",
+      "Seleccionar las páginas web que no han tenido solicitudes desde el inicio y mostrar cuántas solicitudes han recibido en total."
+    ],
+    "correcta": 1,
+    "multiple": "inversa",
+    "id": 5
+  },
+  {
+    "texto": "En base a la consulta SQL, determinar que enunciado dio origen a la consulta siguiente:",
+    "opciones": [
+      "Actualizar las entradas existentes en la tabla Page con nuevas direcciones IP y métodos de la tabla Request.",
+      "Eliminar las entradas de la tabla Request que no tienen un método válido o que son más antiguas de 30 días.",
+      "Seleccionar todas las solicitudes de los últimos 30 días y mostrarlas en la tabla Page, incluyendo todas las direcciones IP y métodos.",
+      "Insertar nuevas entradas en la tabla Page para direcciones IP que no existen en dicha tabla, utilizando la dirección IP de la tabla Request, concatenando 'Web ' con el ID del método, y asegurando que el ID del método esté presente en la tabla Metodo, considerando solo las solicitudes de los últimos 30 días."
+    ],
+    "correcta": 3,
+    "multiple": "inversa",
+    "id": 6
+  }
+  ]
+  
+}
