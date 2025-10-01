@@ -3612,6 +3612,197 @@
     "multiple": "inversa",
     "id": 6
   }
+  ],
+  "tema36": [
+   {
+    "texto": "Funcion SUM: Con el uso de la funcion SUM (campoX)",
+    "opciones": [
+      "Suma el contenido que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Suma el contenido numerico que posee ese campo en la tabla consultada.(es correcta) SI",
+      "Suma el contenido alfabetico (usando el valor ASCII) que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Suma el contenido numerico y alfabetico (usando el valor ASCII) que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 1,
+    "multiple": "inversa",
+    "id": 1
+  },
+  {
+    "texto": "Funcion MAX: Con el uso de la funcion MAX (campoX)",
+    "opciones": [
+      "Obtiene el máximo valor del contenido que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Obtiene el máximo valor del contenido alfabetico (usando el valor ASCII) que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Obtiene el máximo valor del contenido numerico que posee ese campo en la tabla consultada.(es correcta) SI",
+      "Obtiene el máximo valor del contenido numerico y alfabetico (usando el valor ASCII) que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 2,
+    "multiple": "inversa",
+    "id": 2
+  },
+  {
+    "texto": "Funcion MIN: Con el uso de la funcion MIN (campoX)",
+    "opciones": [
+      "Obtiene el mínimo valor del contenido que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Obtiene el mínimo valor del contenido alfabetico (usando el valor ASCII) que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Obtiene el mínimo valor del contenido numerico y alfabetico (usando el valor ASCII) que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Obtiene el mínimo valor del contenido numerico que posee ese campo en la tabla consultada. (es correcta) SI",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 3,
+    "multiple": "inversa",
+    "id": 3
+  },
+  {
+    "texto": "Funcion AVG: Con el uso de la funcion AVG (campoX)",
+    "opciones": [
+      "Obtiene el promedio valor del contenido numerico que posee ese campo en la tabla consultada.(es correcta) SI",
+      "Obtiene el promedio valor del contenido que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Obtiene el promedio valor del contenido alfabetico (usando el valor ASCII) que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Obtiene el promedio valor del contenido numerico y alfabetico (usando el valor ASCII) que posee ese campo en la tabla consultada.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 0,
+    "multiple": "inversa",
+    "id": 4
+  }
+  ],
+  "tema37": [
+     {
+    "texto": "Funcion GROUP BY: Con el uso de la funcion GROUP BY (campoX)",
+    "opciones": [
+      "Devuelve la tabla ordenada por el valor agrupado de mayor a menor.(es correcta) NO",
+      "Devuelve la solo la categoria agrupada del valor mas grande de elementos del tipo listado.(es correcta) NO",
+      "Devuelve la cantidad de registros si necesitamos obtener la cantidad de un grupo. (es correcta) SI",
+      "Devuelve solo la categoria del grupo especificado en la clausula where, caso contrario no devuelve nada.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 2,
+    "multiple": "inversa",
+    "id": 5
+  },
+  {
+    "texto": "Funcion GROUP BY: Con el uso de la funcion GROUP BY (campoX)",
+    "opciones": [
+      "Se utiliza para agrupar filas que tienen valores idénticos en una columna o en un conjunto de columnas.(es correcta) NO",
+      "Es especialmente útil en consultas que implican funciones de agregación (como SUM, COUNT, AVG, MIN, MAX).(es correcta) NO",
+      "Organiza filas que tienen valores iguales en columnas específicas en grupos.(es correcta) NO",
+      "Permite calcular valores agregados para cada grupo.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) SI",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 4,
+    "multiple": "inversa",
+    "id": 6
+  },
+  {
+    "texto": "Funcion GROUP BY: Con el uso de la funcion GROUP BY (campoX)",
+    "opciones": [
+      "Devuelve la solo la categoria agrupada del valor mas grande de elementos del tipo listado.(es correcta) NO",
+      "Es especialmente útil en consultas que implican funciones de agregación (como SUM, COUNT, AVG, MIN, MAX).(es correcta) SI",
+      "Organiza filas que tienen valores diferentes en columnas específicas en grupos.(es correcta) NO",
+      "Permite calcular valores agregados para cada diferentes grupos.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 1,
+    "multiple": "inversa",
+    "id": 7
+  }
+  ],
+  "tema38": [
+   {
+    "texto": "Funcion HAVING: Clausulas de la funcion HAVING (campoX)",
+    "opciones": [
+      "Uso con funciones agregadas: La cláusula HAVING se utiliza principalmente para filtrar los resultados de una consulta después de que se hayan aplicado las funciones agregadas.(es correcta) NO",
+      "Debe ir acompañada de GROUP BY. Si no hay una agrupación, no tiene sentido aplicar HAVING.(es correcta) NO",
+      "Puede no ir acompañada GROUP BY. Si no hay una agrupación, la forma de usar dicha operaciones es si hay funciones agregadas.(es correcta) NO",
+      "Filtrado después de la agregación: A diferencia de WHERE, que se usa para filtrar filas antes de realizar cualquier agregación.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) SI",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 4,
+    "multiple": "inversa",
+    "id": 11
+  },
+  {
+    "texto": "Funcion HAVING: Clausulas de la funcion HAVING (campoX)",
+    "opciones": [
+      "Uso con funciones agregadas: La cláusula HAVING se utiliza principalmente para filtrar los resultados de una consulta después de que se hayan aplicado las funciones agregadas.(es correcta) SI",
+      "Sin uso con funciones agregadas: La cláusula HAVING se puede utilizar para filtrar filas individuales sin la necesidad de las funciones de agregación.(es correcta) NO",
+      "Puede no ir acompañada GROUP BY. Si no hay una agrupación, no hay forma de usar esta funcion.(es correcta) NO",
+      "Filtrado después de la agregación: Al igual del WHERE, se usa para filtrar filas antes de realizar cualquier agregación.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 0,
+    "multiple": "inversa",
+    "id": 12
+  },
+  {
+    "texto": "Funcion HAVING: Clausulas de la funcion HAVING (campoX)",
+    "opciones": [
+      "Uso con funciones agregadas: La cláusula HAVING se utiliza unicamente para filtrar los resultados de una consulta después de que se hayan aplicado las funciones como SUM(), COUNT(), AVG(), MAX(), MIN(). Y se puede utilizar para filtrar filas individuales antes de la agregación. (es correcta) NO",
+      "Debe ir acompañada de GROUP BY: La cláusula HAVING se usa unicamente junto con la cláusula GROUP BY. Si no hay una agrupación, no tiene sentido aplicar HAVING. (es correcta) NO",
+      "Filtrado después de la agregación: La cláusula HAVING, al igual que el WHERE, filtra los resultados después de que se han agrupado y agregado los datos. Es decir, se puede utilizar HAVING para columnas que no estén incluidas en una función agregada o en la cláusula GROUP BY. (es correcta) NO",
+      "Compatibilidad con WHERE: No es posible usar tanto WHERE como HAVING en la misma consulta. WHERE filtra los datos antes de la agrupación, y HAVING después de una funcion de agregacion. (es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) SI"
+    ],
+    "correcta": 5,
+    "multiple": "inversa",
+    "id": 13
+  }
+  ],
+  "tema39": [
+   {
+    "texto": "Funcion RIGHT JOIN",
+    "opciones": [
+      "Devuelve todas las filas de la tabla de la derecha y las filas coincidentes de la tabla de la izquierda.(es correcta) SI",
+      "Si no hay coincidencia en la tabla de la derecha, las columnas correspondientes de la tabla derecha contendrán valores NULL.(es correcta) NO",
+      "Devuelve todas las filas cuando hay una coincidencia en una de las dos tablas.(es correcta) NO",
+      "Combina cada fila de la primera tabla con todas las filas de la segunda tabla.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 0,
+    "multiple": "inversa",
+    "id": 8
+  },
+  {
+    "texto": "Funcion FULL JOIN",
+    "opciones": [
+      "Devuelve todas las filas cuando hay una coincidencia en una de las dos tablas, o en ambas.(es correcta) NO",
+      "Si no hay coincidencia, los valores NULL se muestran para las filas no coincidentes de la otra tabla. (es correcta) NO",
+      "Devuelve todas las filas de la tabla de la izquierda (la primera mencionada en la consulta) y las filas coincidentes de la tabla de la derecha.(es correcta) NO",
+      "Devuelve todas las filas de la tabla de la derecha y las filas coincidentes de la tabla de la izquierda.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) SI",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 4,
+    "multiple": "inversa",
+    "id": 9
+  },
+  {
+    "texto": "Funcion CROSS JOIN",
+    "opciones": [
+      "Devuelve el producto cartesiano de las dos tablas.(es correcta) SI",
+      "Si no hay coincidencia en la tabla de la derecha, las columnas correspondientes de la tabla derecha contendrán valores NULL.(es correcta) NO",
+      "Devuelve el producto cartesiano de las dos tablas, es decir, combina cada fila de la primera tabla con todas las filas de la segunda tabla.(es correcta) NO",
+      "Es simplemente un JOIN donde una tabla se une consigo misma.(es correcta) NO",
+      "Todas las respuestas son correctas.(es correcta) NO",
+      "Ninguna de las respuestas es correcta.(es correcta) NO"
+    ],
+    "correcta": 0,
+    "multiple": "inversa",
+    "id": 10
+  }
   ]
   
+
 }
