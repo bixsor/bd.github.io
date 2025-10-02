@@ -2572,7 +2572,7 @@
       "Todas las respuestas son correctas.",
       "Ninguna de las respuesta es correcta."
     ],
-    "correcta": 4,
+    "correcta": 1,
     "multiple": "tema",
     "id": 58
   },
@@ -2617,7 +2617,7 @@
       "Todas las respuestas son correctas.",
       "Ninguna de las respuesta es correcta. "
     ],
-    "correcta": 6,
+    "correcta": 3,
     "multiple": "tema",
     "id": 61
   },
